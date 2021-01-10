@@ -1,11 +1,5 @@
 {
   "type": "FeatureCollection",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "EPSG:4326"
-    }
-  },
   "features": [
     {
       "type": "Feature",
@@ -2680,6 +2674,66 @@
         "Kondisi": "Bagus",
         "Arah_Alir": "Selatan",
         "Akhir_Pemb": "Paret Besar"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 25,
+        "No": 26,
+        "Lat": 0.541863,
+        "Long": 101.443414,
+        "Nama_Jalan": "Jl Pesisir",
+        "Panjang": 113,
+        "Lebar": 2.01,
+        "Kedalaman": 0.6,
+        "Bahan": "Batu",
+        "Kondisi": "Sedang",
+        "Arah_Alir": "Tenggara",
+        "Akhir_Pemb": "Sungai"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.44340872764586,
+            0.5418651985475635
+          ],
+          [
+            101.4443153142929,
+            0.541417289656992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 26,
+        "No": 27,
+        "Lat": 0.541416,
+        "Long": 101.444313,
+        "Nama_Jalan": "Jl Pesisir",
+        "Panjang": 95,
+        "Lebar": 0.56,
+        "Kedalaman": 0.3,
+        "Bahan": "Alami",
+        "Kondisi": "Sedang",
+        "Arah_Alir": "Tenggara",
+        "Akhir_Pemb": "Sungai"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.4443153142929,
+            0.5414159486123689
+          ],
+          [
+            101.4451052248478,
+            0.5410136352093279
+          ]
+        ]
       }
     }
   ]
