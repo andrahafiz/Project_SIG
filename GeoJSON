@@ -3365,6 +3365,96 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 26,
+        "No": 27,
+        "Lat": 0.541416,
+        "Long": 101.444313,
+        "Nama_Jalan": "Jl Pesisir",
+        "Panjang": 95,
+        "Lebar": 0.56,
+        "Kedalaman": 0.3,
+        "Bahan": "Alami",
+        "Kondisi": "Sedang",
+        "Arah_Alir": "Tenggara",
+        "Akhir_Pemb": "Sungai"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.44432067871094,
+            0.5414494747280867
+          ],
+          [
+            101.44510388374329,
+            0.5410364329695365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 27,
+        "No": 28,
+        "Lat": 0.541012,
+        "Long": 101.445106,
+        "Nama_Jalan": "Jl Pesisir",
+        "Panjang": 49,
+        "Lebar": 0.85,
+        "Kedalaman": 0.15,
+        "Bahan": "Beton",
+        "Kondisi": "Sedang",
+        "Arah_Alir": "Tenggara",
+        "Akhir_Pemb": "Sungai"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.44510924816132,
+            0.5410391150589736
+          ],
+          [
+            101.44554376602171,
+            0.5408433225273326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 28,
+        "No": 29,
+        "Lat": 0.540833,
+        "Long": 101.445545,
+        "Nama_Jalan": "Jl Pesisir",
+        "Panjang": 46,
+        "Lebar": 0.9,
+        "Kedalaman": 0.3,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Timur",
+        "Akhir_Pemb": "Sungai"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.4455384016037,
+            0.5408460046168333
+          ],
+          [
+            101.44598364830017,
+            0.5407574956621405
+          ]
+        ]
+      }
     }
   ]
 }
