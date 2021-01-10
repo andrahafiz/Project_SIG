@@ -3335,6 +3335,36 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 25,
+        "No": 26,
+        "Lat": 0.541863,
+        "Long": 101.443414,
+        "Nama_Jalan": "Jl Pesisir",
+        "Panjang": 113,
+        "Lebar": 2.01,
+        "Kedalaman": 0.6,
+        "Bahan": "Batu",
+        "Kondisi": "Sedang",
+        "Arah_Alir": "Tenggara",
+        "Akhir_Pemb": "Sungai"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.44341945648193,
+            0.541878608992866
+          ],
+          [
+            101.44432604312897,
+            0.5414387463710636
+          ]
+        ]
+      }
     }
   ]
 }
