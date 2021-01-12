@@ -3,6 +3,9 @@
     "features": [{
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 47,
                 "No": 48,
                 "Lat": 0.559128,
@@ -33,6 +36,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 48,
                 "No": 49,
                 "Lat": 0.557918,
@@ -63,6 +69,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 49,
                 "No": 50,
                 "Lat": 0.556607,
@@ -93,6 +102,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 50,
                 "No": 51,
                 "Lat": 0.55635,
@@ -123,6 +135,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 51,
                 "No": 52,
                 "Lat": 0.55526,
@@ -153,6 +168,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 52,
                 "No": 53,
                 "Lat": 0.553971,
@@ -183,6 +201,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 53,
                 "No": 54,
                 "Lat": 0.553302,
@@ -213,6 +234,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 54,
                 "No": 55,
                 "Lat": 0.548502,
@@ -243,6 +267,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 55,
                 "No": 56,
                 "Lat": 0.547621,
@@ -273,6 +300,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 56,
                 "No": 57,
                 "Lat": 0.547174,
@@ -303,6 +333,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 57,
                 "No": 58,
                 "Lat": 0.546789,
@@ -333,6 +366,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 58,
                 "No": 59,
                 "Lat": 0.546741,
@@ -363,6 +399,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 59,
                 "No": 60,
                 "Lat": 0.546072,
@@ -393,6 +432,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 60,
                 "No": 61,
                 "Lat": 0.545312,
@@ -423,6 +465,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 61,
                 "No": 62,
                 "Lat": 0.544537,
@@ -453,6 +498,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 0,
                 "No": 1,
                 "Lat": 0.5433645,
@@ -483,6 +531,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 63,
                 "No": 64,
                 "Lat": 0.55031,
@@ -513,6 +564,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 64,
                 "No": 65,
                 "Lat": 0.550638,
@@ -543,6 +597,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 66,
                 "No": 67,
                 "Lat": 0.550082,
@@ -573,6 +630,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 68,
                 "No": 69,
                 "Lat": 0.549622,
@@ -603,6 +663,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 70,
                 "No": 71,
                 "Lat": 0.54984,
@@ -633,6 +696,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 72,
                 "No": 73,
                 "Lat": 0.550206,
@@ -680,6 +746,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 25,
                 "No": 26,
                 "Lat": 0.541863,
@@ -710,6 +779,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 26,
                 "No": 27,
                 "Lat": 0.541416,
@@ -740,6 +812,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 24,
                 "No": 25,
                 "Lat": 0.558908,
@@ -770,6 +845,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 23,
                 "No": 24,
                 "Lat": 0.558175,
@@ -800,6 +878,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 22,
                 "No": 23,
                 "Lat": 0.557183,
@@ -827,10 +908,12 @@
                 ]
             }
         },
-
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 21,
                 "No": 22,
                 "Lat": 0.556211,
@@ -861,6 +944,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 21,
                 "No": 22,
                 "Lat": 0.556211,
@@ -891,6 +977,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 20,
                 "No": 21,
                 "Lat": 0.553313,
@@ -921,6 +1010,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 19,
                 "No": 20,
                 "Lat": 0.553012,
@@ -951,6 +1043,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 18,
                 "No": 19,
                 "Lat": 0.552066,
@@ -981,6 +1076,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 16,
                 "No": 17,
                 "Lat": 0.551077,
@@ -1011,6 +1109,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 18,
                 "No": 19,
                 "Lat": 0.552066,
@@ -1041,6 +1142,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 15,
                 "No": 16,
                 "Lat": 0.549307,
@@ -1071,6 +1175,12 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 14,
                 "No": 15,
                 "Lat": 0.548419,
@@ -1101,6 +1211,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 13,
                 "No": 14,
                 "Lat": 0.5475701,
@@ -1135,6 +1248,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 10,
                 "No": 11,
                 "Lat": 0.5459393,
@@ -1165,6 +1281,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 9,
                 "No": 10,
                 "Lat": 0.5450931,
@@ -1195,6 +1314,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 8,
                 "No": 9,
                 "Lat": 0.5439683,
@@ -1225,6 +1347,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 7,
                 "No": 8,
                 "Lat": 0.5430564,
@@ -1255,6 +1380,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 6,
                 "No": 7,
                 "Lat": 0.542093,
@@ -1285,6 +1413,9 @@
         {
             "type": "Feature",
             "properties": {
+                "stroke": "#2e35ff",
+                "stroke-width": 5,
+                "stroke-opacity": 1,
                 "FID": 2,
                 "No": 3,
                 "Lat": 0.54206,
