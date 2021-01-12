@@ -224,15 +224,15 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="section-title">
-            <h3>Choose the right hosting solution</h3>
+            <h3>Peta Drainase</h3>
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col-lg col-md col-sm">
           <div class="services__item">
-            <h5>Shared Hosting</h5>
-            <span>Starts At $1.84</span>
+            <h5>Pekanbaru</h5>
+            <span>Kec. Umban Sari , Kel. Meranti Pandak</span>
             <!-- <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
             <div id="map" class="map"></div>
 
@@ -252,23 +252,7 @@
   <!-- Footer Section Begin -->
   <footer class="footer-section">
     <div class="footer__top">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 col-md-6">
-            <div class="footer__top-call">
-              <h5>Need Help? Call us</h5>
-              <h2>+1 175 946 2316 096</h2>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-6">
-            <div class="footer__top-auth">
-              <h5>Join Now And Have Free Month Of Deluxe Hosting</h5>
-              <a href="#" class="primary-btn">Log in</a>
-              <a href="#" class="primary-btn sign-up">Sign Up</a>
-            </div>
-          </div>
-        </div>
-      </div>
+
     </div>
     <div class="footer__text set-bg" data-setbg="img/footer-bg.png">
       <div class="container">
