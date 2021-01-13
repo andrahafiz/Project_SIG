@@ -43,7 +43,7 @@
       <span class="fa fa-times-circle-o"></span>
     </div>
     <div class="offcanvas__logo">
-      <a href="#"><img src="img/logo.png" alt=""></a>
+      <a href="#"><img src="img/drainase.png" alt=""></a>
     </div>
     <nav class="offcanvas__menu mobile-menu">
       <ul>
@@ -64,7 +64,6 @@
     <div id="mobile-menu-wrap"></div>
     <div class="offcanvas__auth">
       <ul>
-        <li><a href="#"><span class="icon_chat_alt"></span> Live chat</a></li>
         <li><a href="#"><span class="fa fa-user"></span> Login / Register</a></li>
       </ul>
     </div>
