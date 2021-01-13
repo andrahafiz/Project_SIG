@@ -43,7 +43,7 @@
       <span class="fa fa-times-circle-o"></span>
     </div>
     <div class="offcanvas__logo">
-      <a href="#"><img src="img/drainase.png" alt=""></a>
+      <a href="#"><img scr="img/drainase.png" alt=""></a>
     </div>
     <nav class="offcanvas__menu mobile-menu">
       <ul>
