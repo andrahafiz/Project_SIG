@@ -43,7 +43,7 @@
       <span class="fa fa-times-circle-o"></span>
     </div>
     <div class="offcanvas__logo">
-      <a href="#"><img scr="img/drainase.png" alt=""></a>
+      <a href="#"><img scr="img/drainasee.png" alt=""></a>
     </div>
     <nav class="offcanvas__menu mobile-menu">
       <ul>
@@ -92,7 +92,7 @@
       <div class="row">
         <div class="col-lg-3 col-md-3">
           <div class="header__logo">
-            <a href="./index.html"><img src="img/logo.png" alt=""></a>
+            <a href="./index.html"><img src="img/drainasee.png" alt=""></a>
           </div>
         </div>
         <div class="col-lg-9 col-md-9">
@@ -129,8 +129,8 @@
           <div class="row">
             <div class="col-lg-6">
               <div class="hero__text">
-                <h5>Starting At Only $ 2.8/month</h5>
-                <h2>Welcome to the best<br /> hosting company</h2>
+                <h5>Kec. Merpati Pandak, Rumbai</h5>
+                <h2>Selamat Datang di Website<br /> Drainase Kitee </h2>
                 <a href="#" class="primary-btn">Get started now</a>
               </div>
             </div>
@@ -147,8 +147,8 @@
           <div class="row">
             <div class="col-lg-6">
               <div class="hero__text">
-                <h5>Starting At Only $ 2.8/month</h5>
-                <h2>Welcome to the best<br /> hosting company</h2>
+                <h5>Kec. Merpati Pandak, Rumbai</h5>
+                <h2>Selamat Datang di Website<br /> Drainase Kitee </h2>
                 <a href="#" class="primary-btn">Get started now</a>
               </div>
             </div>
