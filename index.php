@@ -136,7 +136,7 @@
             </div>
             <div class="col-lg-6">
               <div class="hero__img">
-                <img src="img/hero/hero-right.png" alt="">
+                <img src="img/hero/map.png" alt="">
               </div>
             </div>
           </div>
@@ -154,7 +154,7 @@
             </div>
             <div class="col-lg-6">
               <div class="hero__img">
-                <img src="img/hero/hero-right.png" alt="">
+                <img src="img/hero/map.png" alt="">
               </div>
             </div>
           </div>
