@@ -7,7 +7,7 @@
   <meta name="keywords" content="Deerhost, unica, creative, html">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>DEERHOST | Template</title>
+  <title>DRAINASE</title>
 
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900&display=swap" rel="stylesheet">
@@ -68,12 +68,6 @@
         <li><a href="#"><span class="fa fa-user"></span> Login / Register</a></li>
       </ul>
     </div>
-    <div class="offcanvas__info">
-      <ul>
-        <li><span class="icon_phone"></span> +1 123-456-7890</li>
-        <li><span class="fa fa-envelope"></span> Support@gmail.com</li>
-      </ul>
-    </div>
   </div>
   <!-- Offcanvas Menu End -->
 
@@ -83,17 +77,11 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6 col-md-6">
-            <div class="header__info-left">
-              <ul>
-                <li><span class="icon_phone"></span> +1 123-456-7890</li>
-                <li><span class="fa fa-envelope"></span> Support@gmail.com</li>
-              </ul>
-            </div>
+            
           </div>
           <div class="col-lg-6 col-md-6">
             <div class="header__info-right">
               <ul>
-                <li><a href="#"><span class="icon_chat_alt"></span> Live chat</a></li>
                 <li><a href="#"><span class="fa fa-user"></span> Login / Register</a></li>
               </ul>
             </div>
