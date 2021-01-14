@@ -7,7 +7,7 @@
   <meta name="keywords" content="Deerhost, unica, creative, html">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>DEERHOST | Template</title>
+  <title>DRAINASE</title>
 
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900&display=swap" rel="stylesheet">
@@ -43,7 +43,7 @@
       <span class="fa fa-times-circle-o"></span>
     </div>
     <div class="offcanvas__logo">
-      <a href="#"><img src="img/logo.png" alt=""></a>
+      <a href="#"><img scr="img/drainasee.png" alt=""></a>
     </div>
     <nav class="offcanvas__menu mobile-menu">
       <ul>
@@ -64,14 +64,7 @@
     <div id="mobile-menu-wrap"></div>
     <div class="offcanvas__auth">
       <ul>
-        <li><a href="#"><span class="icon_chat_alt"></span> Live chat</a></li>
         <li><a href="#"><span class="fa fa-user"></span> Login / Register</a></li>
-      </ul>
-    </div>
-    <div class="offcanvas__info">
-      <ul>
-        <li><span class="icon_phone"></span> +1 123-456-7890</li>
-        <li><span class="fa fa-envelope"></span> Support@gmail.com</li>
       </ul>
     </div>
   </div>
@@ -83,17 +76,11 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6 col-md-6">
-            <div class="header__info-left">
-              <ul>
-                <li><span class="icon_phone"></span> +1 123-456-7890</li>
-                <li><span class="fa fa-envelope"></span> Support@gmail.com</li>
-              </ul>
-            </div>
+            
           </div>
           <div class="col-lg-6 col-md-6">
             <div class="header__info-right">
               <ul>
-                <li><a href="#"><span class="icon_chat_alt"></span> Live chat</a></li>
                 <li><a href="#"><span class="fa fa-user"></span> Login / Register</a></li>
               </ul>
             </div>
@@ -105,7 +92,7 @@
       <div class="row">
         <div class="col-lg-3 col-md-3">
           <div class="header__logo">
-            <a href="./index.html"><img src="img/logo.png" alt=""></a>
+            <a href="./index.html"><img src="img/drainasee.png" alt=""></a>
           </div>
         </div>
         <div class="col-lg-9 col-md-9">
@@ -142,14 +129,14 @@
           <div class="row">
             <div class="col-lg-6">
               <div class="hero__text">
-                <h5>Starting At Only $ 2.8/month</h5>
-                <h2>Welcome to the best<br /> hosting company</h2>
+                <h5>Kec. Merpati Pandak, Rumbai</h5>
+                <h2>Selamat Datang di Website<br /> Drainase Kitee </h2>
                 <a href="#" class="primary-btn">Get started now</a>
               </div>
             </div>
             <div class="col-lg-6">
               <div class="hero__img">
-                <img src="img/hero/hero-right.png" alt="">
+                <img src="img/hero/map.png" alt="">
               </div>
             </div>
           </div>
@@ -160,14 +147,14 @@
           <div class="row">
             <div class="col-lg-6">
               <div class="hero__text">
-                <h5>Starting At Only $ 2.8/month</h5>
-                <h2>Welcome to the best<br /> hosting company</h2>
+                <h5>Kec. Merpati Pandak, Rumbai</h5>
+                <h2>Selamat Datang di Website<br /> Drainase Kitee </h2>
                 <a href="#" class="primary-btn">Get started now</a>
               </div>
             </div>
             <div class="col-lg-6">
               <div class="hero__img">
-                <img src="img/hero/hero-right.png" alt="">
+                <img src="img/hero/map.png" alt="">
               </div>
             </div>
           </div>
