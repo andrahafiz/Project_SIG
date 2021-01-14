@@ -76,7 +76,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6 col-md-6">
-            
+
           </div>
           <div class="col-lg-6 col-md-6">
             <div class="header__info-right">
@@ -220,8 +220,10 @@
           <div class="services__item">
             <h5>Pekanbaru</h5>
             <span>Kec. Umban Sari , Kel. Meranti Pandak</span>
-            <!-- <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
-            <div id="map" class="map"></div>
+
+            <div id="map" class="map">
+              <!-- ISI MAP -->
+            </div>
 
             <div id="popup" class="ol-popup">
               <!-- variabel container-->
