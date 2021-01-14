@@ -1443,5 +1443,1229 @@
                 ]
             }
         }
+        {
+            "type": "Feature",
+            "properties": {
+              "FID": 26,
+              "No": 27,
+              "Lat": 0.541416,
+              "Long": 101.444313,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 95,
+              "Lebar": 0.56,
+              "Kedalaman": 0.3,
+              "Bahan": "Alami",
+              "Kondisi": "Sedang",
+              "Arah_Alir": "Tenggara",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44431263208388,
+                  0.5414333821925584
+                ],
+                [
+                  101.44510388374329,
+                  0.5410230225223639
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 27,
+              "No": 28,
+              "Lat": 0.541012,
+              "Long": 101.445106,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 49,
+              "Lebar": 0.85,
+              "Kedalaman": 0.15,
+              "Bahan": "Beton",
+              "Kondisi": "Sedang",
+              "Arah_Alir": "Tenggara",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44510388374329,
+                  0.541025704611801
+                ],
+                [
+                  101.44554376602171,
+                  0.5408460046168333
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 28,
+              "No": 29,
+              "Lat": 0.540833,
+              "Long": 101.445545,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 46,
+              "Lebar": 0.9,
+              "Kedalaman": 0.3,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44554644823074,
+                  0.5408460046168333
+                ],
+                [
+                  101.44598364830017,
+                  0.5407601777517048
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 29,
+              "No": 30,
+              "Lat": 0.540749,
+              "Long": 101.445981,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 55,
+              "Lebar": 0.43,
+              "Kedalaman": 0.4,
+              "Bahan": "Beton",
+              "Kondisi": "Rusak",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44598096609116,
+                  0.5407628598412564
+                ],
+                [
+                  101.44647717475891,
+                  0.5406877613333037
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 31,
+              "No": 32,
+              "Lat": 0.54277,
+              "Long": 101.449208,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 88,
+              "Lebar": 0.6,
+              "Kedalaman": 0.3,
+              "Bahan": "Beton",
+              "Kondisi": "Rusak",
+              "Arah_Alir": "Utara",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44920900464057,
+                  0.5427730856282951
+                ],
+                [
+                  101.44905377179384,
+                  0.5435710069530514
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 32,
+              "No": 33,
+              "Lat": 0.54357,
+              "Long": 101.449054,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 100,
+              "Lebar": 0.2,
+              "Kedalaman": 0.7,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Utara",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44905343651772,
+                  0.5435777121738261
+                ],
+                [
+                  101.44875437021255,
+                  0.5446639578402072
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 33,
+              "No": 34,
+              "Lat": 0.544658,
+              "Long": 101.448755,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 112,
+              "Lebar": 0.53,
+              "Kedalaman": 0.37,
+              "Bahan": "Beton",
+              "Kondisi": "Sedang",
+              "Arah_Alir": "Utara",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44875437021255,
+                  0.5446679809719391
+                ],
+                [
+                  101.44859746098518,
+                  0.5453277745399856
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 34,
+              "No": 35,
+              "Lat": 0.545318,
+              "Long": 101.448598,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 15,
+              "Lebar": 0.32,
+              "Kedalaman": 0.7,
+              "Bahan": "Beton",
+              "Kondisi": "Rusak",
+              "Arah_Alir": "Barat Laut",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44859746098518,
+                  0.5453250924524569
+                ],
+                [
+                  101.44864305853844,
+                  0.5454283528214416
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 35,
+              "No": 36,
+              "Lat": 0.54542,
+              "Long": 101.448645,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 11,
+              "Lebar": 0.83,
+              "Kedalaman": 0.24,
+              "Bahan": "Alami",
+              "Kondisi": "Rusak",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44864305853844,
+                  0.545427011777709
+                ],
+                [
+                  101.45003378391264,
+                  0.5453760521152993
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 36,
+              "No": 37,
+              "Lat": 0.54537,
+              "Long": 101.450034,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 100,
+              "Lebar": 1.7,
+              "Kedalaman": 0.6,
+              "Bahan": "Alami",
+              "Kondisi": "Sedang",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.45003110170364,
+                  0.5453760521152993
+                ],
+                [
+                  101.45102754235268,
+                  0.5453827573340512
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 37,
+              "No": 38,
+              "Lat": 0.545378,
+              "Long": 101.451027,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 100,
+              "Lebar": 0.97,
+              "Kedalaman": 0.25,
+              "Bahan": "Alami",
+              "Kondisi": "Sedang",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.45102486014366,
+                  0.5453827573340512
+                ],
+                [
+                  101.45193949341774,
+                  0.5453948267278096
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 38,
+              "No": 39,
+              "Lat": 0.545388,
+              "Long": 101.451939,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 100,
+              "Lebar": 1.2,
+              "Kedalaman": 0.1,
+              "Bahan": "Alami",
+              "Kondisi": "Rusak",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.45193949341774,
+                  0.5453948267278096
+                ],
+                [
+                  101.45276293158531,
+                  0.5453492312401773
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 39,
+              "No": 40,
+              "Lat": 0.545341,
+              "Long": 101.452762,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 100,
+              "Lebar": 0.6,
+              "Kedalaman": 0.55,
+              "Bahan": "Alami",
+              "Kondisi": "Rusak",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.4527615904808,
+                  0.5453478901964066
+                ],
+                [
+                  101.45361855626106,
+                  0.5453317976712851
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 40,
+              "No": 41,
+              "Lat": 0.545324,
+              "Long": 101.453619,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 100,
+              "Lebar": 0.81,
+              "Kedalaman": 0.44,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.45361185073853,
+                  0.5453438670651326
+                ],
+                [
+                  101.45489931106567,
+                  0.5454833356145911
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 41,
+              "No": 42,
+              "Lat": 0.545457,
+              "Long": 101.454886,
+              "Nama_Jalan": "Jl Pesisir",
+              "Panjang": 89,
+              "Lebar": 0.53,
+              "Kedalaman": 0.34,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.45489931106567,
+                  0.5454886997895086
+                ],
+                [
+                  101.45569324493408,
+                  0.5456174399860406
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 82,
+              "No": 83,
+              "Lat": 0.547824,
+              "Long": 101.437711,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 100,
+              "Lebar": 0.82,
+              "Kedalaman": 0.18,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43771171569824,
+                  0.5478288206395088
+                ],
+                [
+                  101.4385861158371,
+                  0.5481211680512008
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 83,
+              "No": 84,
+              "Lat": 0.548115,
+              "Long": 101.438586,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 68,
+              "Lebar": 0.82,
+              "Kedalaman": 0.18,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.4385861158371,
+                  0.5481225090943355
+                ],
+                [
+                  101.43917888402937,
+                  0.548299526786171
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 85,
+              "No": 86,
+              "Lat": 0.548344,
+              "Long": 101.439943,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 129,
+              "Lebar": 1.3,
+              "Kedalaman": 0.82,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43994264304638,
+                  0.5483451222514122
+                ],
+                [
+                  101.44111409783363,
+                  0.54848894912107
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 87,
+              "No": 88,
+              "Lat": 0.547879,
+              "Long": 101.437696,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 100,
+              "Lebar": 0.82,
+              "Kedalaman": 0.18,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43769595772028,
+                  0.5478807860635101
+                ],
+                [
+                  101.4385737106204,
+                  0.5481577114766542
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 104,
+              "No": 105,
+              "Lat": 0.54764,
+              "Long": 101.441182,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 0,
+              "Lebar": 1.5,
+              "Kedalaman": 0.07,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Selatan",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44116371870041,
+                  0.5482700238379092
+                ],
+                [
+                  101.44118249416351,
+                  0.547645097717535
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 98,
+              "No": 99,
+              "Lat": 0.548961,
+              "Long": 101.441095,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 0,
+              "Lebar": 0.7,
+              "Kedalaman": 0.08,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44109465181828,
+                  0.5489633430839529
+                ],
+                [
+                  101.44108124077319,
+                  0.5491524301371052
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 91,
+              "No": 92,
+              "Lat": 0.548531,
+              "Long": 101.441104,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 0,
+              "Lebar": 0.85,
+              "Kedalaman": 0.15,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44110403954983,
+                  0.5485325330202925
+                ],
+                [
+                  101.44109465181828,
+                  0.5489636783446824
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                101.43921777606009,
+                0.5482988562646355
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 84,
+              "No": 85,
+              "Lat": 0.548293,
+              "Long": 101.439177,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 70,
+              "Lebar": 1,
+              "Kedalaman": 0.82,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43917419016361,
+                  0.548298521003855
+                ],
+                [
+                  101.43921677023172,
+                  0.5483042204370213
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 88,
+              "No": 89,
+              "Lat": 0.548156,
+              "Long": 101.438573,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 78,
+              "Lebar": 1.25,
+              "Kedalaman": 0.12,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43857304006815,
+                  0.5481577114766542
+                ],
+                [
+                  101.43918693065643,
+                  0.5483585326823003
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 92,
+              "No": 93,
+              "Lat": 0.548363,
+              "Long": 101.43922,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 24,
+              "Lebar": 0,
+              "Kedalaman": 0.08,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43922179937363,
+                  0.5483719431131503
+                ],
+                [
+                  101.43918961286545,
+                  0.5485918741748741
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 76,
+              "No": 77,
+              "Lat": 0.548868,
+              "Long": 101.438283,
+              "Nama_Jalan": "Jl. Jaya Cendana",
+              "Panjang": 0,
+              "Lebar": 0.7,
+              "Kedalaman": 0.68,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43828302621841,
+                  0.5488721521625542
+                ],
+                [
+                  101.43868401646614,
+                  0.548994187071749
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 77,
+              "No": 78,
+              "Lat": 0.548981,
+              "Long": 101.438684,
+              "Nama_Jalan": "Jl. Jaya Cendana",
+              "Panjang": 21,
+              "Lebar": 0.7,
+              "Kedalaman": 0.7,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43868535757065,
+                  0.5489982102005803
+                ],
+                [
+                  101.43891736865042,
+                  0.5490531929610082
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 78,
+              "No": 79,
+              "Lat": 0.549037,
+              "Long": 101.438917,
+              "Nama_Jalan": "Jl. Jaya Cendana",
+              "Panjang": 13,
+              "Lebar": 0.7,
+              "Kedalaman": 0.7,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43891703337431,
+                  0.5490538634824801
+                ],
+                [
+                  101.4389230683446,
+                  0.5490515166573603
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 79,
+              "No": 80,
+              "Lat": 0.54905,
+              "Long": 101.438923,
+              "Nama_Jalan": "Jl. Jaya Cendana",
+              "Panjang": 120,
+              "Lebar": 0.7,
+              "Kedalaman": 0.7,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43892239779233,
+                  0.549051181396618
+                ],
+                [
+                  101.43895592540503,
+                  0.5490431351390189
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 80,
+              "No": 81,
+              "Lat": 0.549041,
+              "Long": 101.438956,
+              "Nama_Jalan": "Jl. Jaya Cendana",
+              "Panjang": 280,
+              "Lebar": 0.7,
+              "Kedalaman": 0.7,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43895626068114,
+                  0.5490441409212203
+                ],
+                [
+                  101.43914602696894,
+                  0.5490659328688596
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 94,
+              "No": 95,
+              "Lat": 0.549163,
+              "Long": 101.43918,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 3.52,
+              "Lebar": 0.32,
+              "Kedalaman": 0.08,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Selatan",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43919430673122,
+                  0.5491588000909164
+                ],
+                [
+                  101.43920972943306,
+                  0.5491876325133681
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 95,
+              "No": 96,
+              "Lat": 0.549206,
+              "Long": 101.439197,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 43924,
+              "Lebar": 0.32,
+              "Kedalaman": 0.08,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Selatan",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43921006470919,
+                  0.5491883030348145
+                ],
+                [
+                  101.43922381103039,
+                  0.5491940024671411
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                101.43926002085209,
+                0.5482998620469515
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 84,
+              "No": 85,
+              "Lat": 0.548293,
+              "Long": 101.439177,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 100,
+              "Lebar": 1,
+              "Kedalaman": 0.82,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43926203250885,
+                  0.5483035499154858
+                ],
+                [
+                  101.43994197249411,
+                  0.5483478043375923
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 92,
+              "No": 93,
+              "Lat": 0.548363,
+              "Long": 101.43922,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 24,
+              "Lebar": 0,
+              "Kedalaman": 0.08,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43922314047813,
+                  0.5483706020700538
+                ],
+                [
+                  101.43994063138962,
+                  0.5483960818886066
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 90,
+              "No": 91,
+              "Lat": 0.548378,
+              "Long": 101.43994,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 120,
+              "Lebar": 0.85,
+              "Kedalaman": 0.15,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43994331359862,
+                  0.5483974229316775
+                ],
+                [
+                  101.44110605120659,
+                  0.5485462787115158
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 93,
+              "No": 94,
+              "Lat": 0.548582,
+              "Long": 101.439189,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 66,
+              "Lebar": 0.32,
+              "Kedalaman": 0.08,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Selatan",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43919229507446,
+                  0.5485938857394297
+                ],
+                [
+                  101.43919296562672,
+                  0.549157123787294
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 99,
+              "No": 100,
+              "Lat": 0.548351,
+              "Long": 101.439186,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 25,
+              "Lebar": 0.22,
+              "Kedalaman": 0.12,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Barat",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43918693065643,
+                  0.5483598737253841
+                ],
+                [
+                  101.4391527324915,
+                  0.5485824868736315
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 106,
+              "No": 107,
+              "Lat": 0.54915,
+              "Long": 101.441081,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 0,
+              "Lebar": 1.5,
+              "Kedalaman": 0.07,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Selatan",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.44108325242996,
+                  0.5491819330810287
+                ],
+                [
+                  101.44106447696686,
+                  0.5502145360266133
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 101,
+              "No": 102,
+              "Lat": 0.550276,
+              "Long": 101.441141,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 122,
+              "Lebar": 1.5,
+              "Kedalaman": 0.25,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Selatan",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.4411449432373,
+                  0.5502842702450594
+                ],
+                [
+                  101.44114226102829,
+                  0.5491792509952302
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 102,
+              "No": 103,
+              "Lat": 0.549156,
+              "Long": 101.44114,
+              "Nama_Jalan": "Jl. Yos Sudarso, GG. Jaya",
+              "Panjang": 100,
+              "Lebar": 1.5,
+              "Kedalaman": 0.07,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Selatan",
+              "Akhir_Pemb": "Paret Besar"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.4411449432373,
+                  0.5491980255958325
+                ],
+                [
+                  101.44117444753647,
+                  0.5482753880103204
+                ]
+              ]
+            }
+          }
+        ]
+      }
     ]
 }
