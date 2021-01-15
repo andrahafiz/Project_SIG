@@ -50,10 +50,10 @@ include 'header.php';
         <div class="work__text">
           <div class="row">
             <div class="col-lg">
-              <div id="map" class="map"></div>
+              <div id="map_titikbanjir" class="map_titikbanjir"></div>
 
-              <div id="popup" class="ol-popup">
-                <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+              <div id="popup_titikbanjir" class="ol-popup">
+                <a href="#" id="popup-closer_titikbanjir" class="ol-popup-closer"></a>
                 <div id="popup-content"></div>
               </div>
 
