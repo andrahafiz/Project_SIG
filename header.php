@@ -62,31 +62,19 @@
             </ul>
         </nav>
         <div id="mobile-menu-wrap"></div>
-        <div class="offcanvas__auth">
-            <ul>
-                <li><a href="#"><span class="fa fa-user"></span> Login / Register</a></li>
-            </ul>
-        </div>
     </div>
     <!-- Offcanvas Menu End -->
 
     <!-- Header Section Begin -->
     <header class="header-section">
-        <div class="header__info">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
 
                     </div>
                     <div class="col-lg-6 col-md-6">
-                        <div class="header__info-right">
-                            <ul>
-                                <li><a href="#"><span class="fa fa-user"></span> Login / Register</a></li>
-                            </ul>
-                        </div>
                     </div>
                 </div>
-            </div>
         </div>
         <div class="container">
             <div class="row">
@@ -99,17 +87,11 @@
                     <nav class="header__menu">
                         <ul>
                             <li class="active"><a href="./index.html">Home</a></li>
-                            <li><a href="./about.html">About</a></li>
-                            <li><a href="./hosting.html">Hosting</a></li>
-                            <li><a href="#">Pages</a>
-                                <ul class="dropdown">
-                                    <li><a href="./pricing.html">Pricing</a></li>
-                                    <li><a href="./blog-details.html">Blog Details</a></li>
-                                    <li><a href="./404.html">404</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="./blog.html">News</a></li>
-                            <li><a href="./contact.html">Contact</a></li>
+                            <li><a href="./about.html">Drainase</a></li>
+                            <li><a href="./hosting.html">Titik Banjir</a></li>
+                            <li><a href="./hosting.html">Titik Tersumbat</a></li>
+                            <li><a href="./blog.html">Tentang</a></li>
+                            <li><a href="./contact.html">Kontak</a></li>
                         </ul>
                     </nav>
                 </div>
