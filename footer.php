@@ -9,7 +9,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="footer__text-about">
                         <div class="footer__logo">
-                            <a href="./index.html"><img src="img/logo.png" alt=""></a>
+                            <a href="./index.html"><img src="img/drainasee.png" alt=""></a>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                             ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida viverra maecen
@@ -48,10 +48,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="footer__text-widget">
-                        <h5>cONTACT US</h5>
+                        <h5>Anggota Tim</h5>
                         <ul class="footer__widget-info">
-                            <li><span class="fa fa-map-marker"></span> 500 South Main Street Los Angeles,<br />
-                                ZZ-96110 USA</li>
+                            <li><span class="fa fa-user"></span> 500 South Main Street Los Angeles</li>
                             <li><span class="fa fa-mobile"></span> 125-711-811 | 125-668-886</li>
                             <li><span class="fa fa-headphones"></span> Support.hosting@gmail.com</li>
                         </ul>
