@@ -121,7 +121,7 @@ var vectorLayer = new ol.layer.Vector({
       var geometry = feature.getGeometry();
       var coord = geometry.getCoordinates();
 
-      var content = '<p class="text-center font-weight-bold">Nama Jalan</p><p ' + feature.get('Nama_Jalan') + '</p >';
+      var content = '<p class="text-center font-weight-bold">Nama Jalan</p><p class="text-center">' + feature.get('Nama_Jalan') + '</p>';
       // content += '<h3>Jumlah Korban : ' + feature.get('Jumlah_Korban') + '</h3>';
       // content += '<img src="https://drive.google.com/file/d/1EaZgWu1YzOmx6GqODlj2XUn_NeZaOLs8" width="300"/>';
 
