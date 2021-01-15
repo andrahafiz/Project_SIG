@@ -86,10 +86,10 @@
                 <div class="col-lg-9 col-md-9">
                     <nav class="header__menu">
                         <ul>
-                            <li class="active"><a href="./index.html">Home</a></li>
+                            <li class="active"><a href="./index.php">Home</a></li>
                             <li><a href="./about.html">Drainase</a></li>
-                            <li><a href="./hosting.html">Titik Banjir</a></li>
-                            <li><a href="./hosting.html">Titik Tersumbat</a></li>
+                            <li><a href="./titikbanjir.php">Titik Banjir</a></li>
+                            <li><a href="./titiktersumbat.php">Titik Tersumbat</a></li>
                             <li><a href="./blog.html">Tentang</a></li>
                             <li><a href="./contact.html">Kontak</a></li>
                         </ul>
