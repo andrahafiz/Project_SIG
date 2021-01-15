@@ -12,12 +12,12 @@ include 'header.php';
             <div class="hero__text">
               <h5>Kec. Merpati Pandak, Rumbai</h5>
               <h2>Selamat Datang di Website<br /> Drainase Kitee </h2>
-              <a href="#" class="primary-btn">Get started now</a>
+              <a href="#" class="primary-btn">Lihat Drainase</a>
             </div>
           </div>
           <div class="col-lg-6">
             <div class="hero__img">
-              <img src="img/hero/map.png" alt="">
+              <img src="img/hero/pareet.png" alt="">
             </div>
           </div>
         </div>
