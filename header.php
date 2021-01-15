@@ -66,15 +66,15 @@
     <!-- Offcanvas Menu End -->
 
     <!-- Header Section Begin -->
-    <header class="header-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6">
+    <header class="header-section ">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6">
 
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-                    </div>
                 </div>
+                <div class="col-lg-6 col-md-6">
+                </div>
+            </div>
         </div>
         <div class="container">
             <div class="row">
