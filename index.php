@@ -52,6 +52,16 @@ include 'header.php';
       <div class="col-lg-8">
         <div class="register__text">
           <div class="section-title">
+            <h3>Project Drainase</h3>
+          </div>
+          <p>Project ini merupakan project mata kuliah Bengkel Sistem Informasi Geografis. 
+            Project ini berisi tentang Informasi Drainase-drainase yang berada didaerah Rumbai, 
+            tepatnya di Kecamatan Merpati Pandak </p>
+        </div>
+
+        <br/><br/>
+
+        <div class="section-title">
             <h3>DRAINASE</h3>
           </div>
          
@@ -59,6 +69,26 @@ include 'header.php';
             tanah, baik yang terbentuk secara alami maupun dibuat manusia. Dalam Bahasa
             Indonesia, drainase bisa merujuk pada parit di permukaan tanah atau gorong –
             gorong dibawah tanah.</p>
+        </div>
+    
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Register Domain Section Begin -->
+<section class="register-domain spad">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      <div class="col-lg-8">
+        <div class="register__text">
+          <div class="section-title">
+            <h3>Arus Hilir</h3>
+          </div>
+         
+          <p>hilir atau muara sungai adalah ujung akhir aliran sungai. Adapun ciri-ciri dari arus Hilir yaitu :
+            Pengikisan atau erosi melebar ke dinding sungai, Banyak pengendapan,
+            Muara terkadang membentuk delta atau tanah datar hasil pengendapan dan sungai mati (oxbow lake) </p>
         </div>
 
         <br/><br/>
@@ -73,11 +103,10 @@ include 'header.php';
           Terdapat jeram atau air terjun </p>
         </div>
     
-
       </div>
     </div>
   </div>
-
+</section>
 
 
 <!-- Services Section End -->
