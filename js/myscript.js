@@ -111,3 +111,56 @@ var vectorLayer = new ol.layer.Vector({
 
     }
   });
+
+  // CREATE MAP TITIK TERSUMBAT
+  var vectorLayer_titiktersumbat = new ol.layer.Vector({
+    source: new ol.source.Vector({
+      format: new ol.format.GeoJSON(),
+      url: 'json/TitikTersumbat.json'
+    }),
+    style: new ol.style.Style({
+      image: new ol.style.Icon(({
+        anchor: [0.5, 46],
+        anchorXUnits: 'fraticon',
+        anchorYUnits: 'pixels',
+        src: 'icon/pin.png'
+      }))
+    })
+  });
+  var map_titikersumbat = new ol.Map({
+    target: 'map_titiktersumbat',
+    layers: [
+      new ol.layer.Tile({
+        source: new ol.source.OSM()
+      }),
+      vectorLayer_titiktersumbat
+    ],
+    view: new ol.View({
+      center: ol.proj.fromLonLat([101.436, 0.545]),
+      zoom: 16
+    })
+  });
+  
+  map_titiktersumbat.addOverlay(overlay);
+
+  map_titikersumbat.on('click', function(evt) {
+    var feature = map_titikersumbat.forEachFeatureAtPixel(evt.pixel,
+      function(feature, layer) {
+        return feature;
+      });
+
+    if (feature) {
+      var geometry = feature.getGeometry();
+      var coord = geometry.getCoordinates();
+
+      var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
+      // var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
+      // content += '<h3>Jumlah Korban : ' + feature.get('Jumlah_Korban') + '</h3>';
+      // content += '<img src="https://drive.google.com/file/d/1EaZgWu1YzOmx6GqODlj2XUn_NeZaOLs8" width="300"/>';
+
+      content_element.innerHTML = content;
+      overlay.setPosition(coord);
+      console.info(feature.getProperties());
+
+    }
+  });
