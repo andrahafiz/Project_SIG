@@ -69,44 +69,52 @@ include 'header.php';
             tanah, baik yang terbentuk secara alami maupun dibuat manusia. Dalam Bahasa
             Indonesia, drainase bisa merujuk pada parit di permukaan tanah atau gorong –
             gorong dibawah tanah.</p>
-        </div>
-    
-      </div>
-    </div>
-  </div>
-</section>
+        </div>    
 
-<!-- Register Domain Section Begin -->
-<section class="register-domain spad">
-  <div class="container">
-    <div class="row d-flex justify-content-center">
+
+      <div class="row d-flex justify-content-center">
       <div class="col-lg-8">
-        <div class="register__text">
+      <div class="register__text"><br/><br/>
           <div class="section-title">
             <h3>Arus Hilir</h3>
           </div>
          
-          <p>hilir atau muara sungai adalah ujung akhir aliran sungai. Adapun ciri-ciri dari arus Hilir yaitu :
+          <p>Hilir atau muara sungai adalah ujung akhir aliran sungai. Adapun ciri-ciri dari arus Hilir yaitu :
             Pengikisan atau erosi melebar ke dinding sungai, Banyak pengendapan,
             Muara terkadang membentuk delta atau tanah datar hasil pengendapan dan sungai mati (oxbow lake) </p>
         </div>
-
-        <br/><br/>
-
-        <div class="section-title">
-            <h3>Arus Hulu</h3>
-          </div>
-         
-          <p>Hulu adalah awal mula aliran sungai, merupakan bagian sungai yang terletak di daerah pegunungan atau perbukitan. 
-          Adapun ciri-ciri dari arus Hulu yaitu : Arus deras, Pengikisan atau erosi ke dasar sungai, Saluran berbentuk VI, 
-          Tidak terdapat pengendapan, Batu masih besar-besar,
-          Terdapat jeram atau air terjun </p>
         </div>
-    
-      </div>
+
+        <div class="row d-flex justify-content-center">
+        <div class="col-lg-8">
+        <div class="register__text"><br/><br/>
+        <div class="section-title">
+              <h3>Arus Hulu</h3>
+            </div>
+          
+            <p>Hulu adalah awal mula aliran sungai, merupakan bagian sungai yang terletak di daerah pegunungan atau perbukitan. 
+            Adapun ciri-ciri dari arus Hulu yaitu : Arus deras, Pengikisan atau erosi ke dasar sungai, Saluran berbentuk VI, 
+            Tidak terdapat pengendapan, Batu masih besar-besar,
+            Terdapat jeram atau air terjun </p>
+          </div>
+          </div>
+
+        <div class="row d-flex justify-content-center">
+        <div class="col-lg-8">
+        <div class="register__text"><br/><br/>
+        <div class="section-title">
+              <h3>Saluran paling bagus</h3>
+            </div>
+          
+            <p>Menurut peneliti serta standar penilaian drainase yang bagus .... wqweqwe
+            qweqweqweqw qewqweqweqwe qweweqweqweewasdsadadasdsadas</p>
+          </div>
+          </div>
+
     </div>
   </div>
 </section>
+
 
 
 <!-- Services Section End -->
