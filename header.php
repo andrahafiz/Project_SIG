@@ -23,9 +23,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/css/ol.css" type="text/css">
 
     <link href="style.css" rel="stylesheet" type="text/css">
-
+    <script src="https://kit.fontawesome.com/c29ce50752.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/build/ol.js"></script>
-    <title>OpenLayers example</title>
+    <title>DRAINASE</title>
 </head>
 
 </head>

@@ -8,14 +8,16 @@ include 'header.php';
     <div class="row justify-content-md-center">
       <div class="col-lg-3 col-md-3 col-sm-6">
         <div class="achievement__item">
-          <span class="fa fa-user-o"></span>
+          <span class="fa fa-water"></span>
+
           <h2 class="achieve-counter">6</h2>
           <p>Titik Banjir</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-6">
         <div class="achievement__item">
-          <span class="fa fa-edit"></span>
+          <!-- <i class="fas fa-tint"></i> -->
+          <span class="fa fa-tint"></span>
           <h2 class="achieve-counter">4</h2>
           <p>Parit Tersumbat</p>
         </div>
