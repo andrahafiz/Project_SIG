@@ -127,7 +127,7 @@ var vectorLayer = new ol.layer.Vector({
       }))
     })
   });
-  var map_titikersumbat = new ol.Map({
+  var map_titiktersumbat = new ol.Map({
     target: 'map_titiktersumbat',
     layers: [
       new ol.layer.Tile({
@@ -136,15 +136,15 @@ var vectorLayer = new ol.layer.Vector({
       vectorLayer_titiktersumbat
     ],
     view: new ol.View({
-      center: ol.proj.fromLonLat([101.436, 0.545]),
+      center: ol.proj.fromLonLat([101.449, 0.545]),
       zoom: 16
     })
   });
   
   map_titiktersumbat.addOverlay(overlay);
 
-  map_titikersumbat.on('click', function(evt) {
-    var feature = map_titikersumbat.forEachFeatureAtPixel(evt.pixel,
+  map_titiktersumbat.on('click', function(evt) {
+    var feature = map_titiktersumbat.forEachFeatureAtPixel(evt.pixel,
       function(feature, layer) {
         return feature;
       });
