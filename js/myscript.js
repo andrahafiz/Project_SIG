@@ -136,7 +136,7 @@ var vectorLayer = new ol.layer.Vector({
       vectorLayer_titiktersumbat
     ],
     view: new ol.View({
-      center: ol.proj.fromLonLat([101.436, 0.545]),
+      center: ol.proj.fromLonLat([101.449, 0.545]),
       zoom: 16
     })
   });
