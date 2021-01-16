@@ -11,8 +11,8 @@ include 'header.php';
           <div class="col-lg-6">
             <div class="hero__text">
               <h5>Kec. Merpati Pandak, Rumbai</h5>
-              <h2>Selamat Datang di Website<br /> Drainase Kitee </h2>
-              <a href="#" class="primary-btn">Lihat Drainase</a>
+              <h2>Selamat Datang di Website<br /> Informasi Drainase </h2>
+              <a href="./drainase.php" class="primary-btn">Lihat Drainase</a>
             </div>
           </div>
           <div class="col-lg-6">
@@ -29,8 +29,8 @@ include 'header.php';
           <div class="col-lg-6">
             <div class="hero__text">
               <h5>Kec. Merpati Pandak, Rumbai</h5>
-              <h2>Selamat Datang di Website<br /> Drainase Kitee </h2>
-              <a href="#" class="primary-btn">Lihat Drainase</a>
+              <h2>Selamat Datang di Website<br /> Informasi Drainase </h2>
+              <a href="./drainase.php" class="primary-btn">Lihat Drainase</a>
             </div>
           </div>
           <div class="col-lg-6">
