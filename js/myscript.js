@@ -13,7 +13,7 @@ var vectorLayer = new ol.layer.Vector({
     })
   });
 
-  var vectorLayerRiau = new ol.layer.Vector({
+  var vectorLayerDrainase = new ol.layer.Vector({
     source: new ol.source.Vector({
       format: new ol.format.GeoJSON(),
       url: 'json/GeoJSON_Line.json'
@@ -23,15 +23,13 @@ var vectorLayer = new ol.layer.Vector({
     })
   });
 
-  
-
   var map = new ol.Map({
     target: 'map',
     layers: [
       new ol.layer.Tile({
         source: new ol.source.OSM()
       }),
-      vectorLayerRiau
+      vectorLayerDrainase
     ],
     view: new ol.View({
       center: ol.proj.fromLonLat([101.436, 0.545]),
@@ -54,21 +52,6 @@ var vectorLayer = new ol.layer.Vector({
     })
   });
 
-  var map_titikbanjir = new ol.Map({
-    target: 'map_titikbanjir',
-    layers: [
-      new ol.layer.Tile({
-        source: new ol.source.OSM()
-      }),
-      vectorLayer_titikbanjir
-    ],
-    view: new ol.View({
-      center: ol.proj.fromLonLat([101.436, 0.545]),
-      zoom: 16
-    })
-  });
-
-
   var container = document.getElementById('popup'),
     content_element = document.getElementById('popup-content'),
     closer = document.getElementById('popup-closer');
@@ -90,8 +73,22 @@ var vectorLayer = new ol.layer.Vector({
   var fullscreen = new ol.control.FullScreen();
   map.addControl(fullscreen);
 
-  map_titikbanjir.addOverlay(overlay);
+  // CREATE MAP TITIK BANJIR
+  var map_titikbanjir = new ol.Map({
+    target: 'map_titikbanjir',
+    layers: [
+      new ol.layer.Tile({
+        source: new ol.source.OSM()
+      }),
+      vectorLayer_titikbanjir
+    ],
+    view: new ol.View({
+      center: ol.proj.fromLonLat([101.436, 0.545]),
+      zoom: 16
+    })
+  });
 
+  map_titikbanjir.addOverlay(overlay);
 
   map_titikbanjir.on('click', function(evt) {
     var feature = map.forEachFeatureAtPixel(evt.pixel,
