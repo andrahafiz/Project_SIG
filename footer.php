@@ -50,9 +50,10 @@
                     <div class="footer__text-widget">
                         <h5>Anggota Tim</h5>
                         <ul class="footer__widget-info">
-                            <li><span class="fa fa-user"></span> Andra </li>
-                            <li><span class="fa fa-mobile"></span> 125-711-811 | 125-668-886</li>
-                            <li><span class="fa fa-headphones"></span> Support.hosting@gmail.com</li>
+                            <li><span class="fa fa-user"></span> Abdul Arif </li>
+                            <li><span class="fa fa-user"></span> Ahmad Nuzul Azmi</li>
+                            <li><span class="fa fa-user"></span> Andra Hormatua Alhafizh </li>
+                            <li><span class="fa fa-user"></span> M. FIkiri Ramadhan </li>
                         </ul>
                     </div>
                 </div>
