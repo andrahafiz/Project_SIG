@@ -39,7 +39,7 @@ include 'header.php';
         <div class="work__text">
           <div class="row">
             <div class="col-lg">
-              <div id="map_titikbanjir" class="map"></div>
+              <div id="map_titiktersumbat" class="map"></div>
 
               <div id="popup" class="ol-popup">
                 <a href="#" id="popup-closer" class="ol-popup-closer"></a>
