@@ -87,7 +87,7 @@ var vectorLayer = new ol.layer.Vector({
       zoom: 16
     })
   });
-
+  
   map_titikbanjir.addOverlay(overlay);
 
   map_titikbanjir.on('click', function(evt) {
