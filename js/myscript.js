@@ -18,6 +18,25 @@ var vectorLayer = new ol.layer.Vector({
       format: new ol.format.GeoJSON(),
       url: 'json/GeoJSON_Line.json'
     }),
+    style:new ol.style.Style({
+      stroke: new ol.style.Stroke({color: '#2753e5',width:4})
+    })
+  });
+
+  
+
+  var map = new ol.Map({
+    target: 'map',
+    layers: [
+      new ol.layer.Tile({
+        source: new ol.source.OSM()
+      }),
+      vectorLayerRiau
+    ],
+    view: new ol.View({
+      center: ol.proj.fromLonLat([101.436, 0.545]),
+      zoom: 16
+    })
   });
 
   var vectorLayer_titikbanjir = new ol.layer.Vector({
@@ -32,20 +51,6 @@ var vectorLayer = new ol.layer.Vector({
         anchorYUnits: 'pixels',
         src: 'icon/pin.png'
       }))
-    })
-  });
-
-  var map = new ol.Map({
-    target: 'map',
-    layers: [
-      new ol.layer.Tile({
-        source: new ol.source.OSM()
-      }),
-      vectorLayerRiau
-    ],
-    view: new ol.View({
-      center: ol.proj.fromLonLat([101.436, 0.545]),
-      zoom: 16
     })
   });
 
@@ -68,12 +73,12 @@ var vectorLayer = new ol.layer.Vector({
     content_element = document.getElementById('popup-content'),
     closer = document.getElementById('popup-closer');
 
-  // closer.onclick = function() {
-  //   overlay.setPosition(undefined);
-  //   closer.blur();
-  //   return false;
+  closer.onclick = function() {
+    overlay.setPosition(undefined);
+    closer.blur();
+    return false;
 
-  // };
+  };
   var overlay = new ol.Overlay({
     element: container,
     autoPan: true,
@@ -87,8 +92,6 @@ var vectorLayer = new ol.layer.Vector({
 
   map_titikbanjir.addOverlay(overlay);
 
-  var fullscreen = new ol.control.FullScreen();
-  map.addControl(fullscreen);
 
   map_titikbanjir.on('click', function(evt) {
     var feature = map.forEachFeatureAtPixel(evt.pixel,
@@ -121,7 +124,7 @@ var vectorLayer = new ol.layer.Vector({
       var geometry = feature.getGeometry();
       var coord = geometry.getCoordinates();
 
-      var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center">' + feature.get('Nama_Jalan') + '</p>';
+      var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
       // content += '<h3>Jumlah Korban : ' + feature.get('Jumlah_Korban') + '</h3>';
       // content += '<img src="https://drive.google.com/file/d/1EaZgWu1YzOmx6GqODlj2XUn_NeZaOLs8" width="300"/>';
 
