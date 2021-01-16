@@ -60,60 +60,25 @@ include 'header.php';
             Indonesia, drainase bisa merujuk pada parit di permukaan tanah atau gorong –
             gorong dibawah tanah.</p>
         </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- Register Domain Section End -->
 
-<!-- Register Domain Section Begin -->
-<section class="register-domain spad">
-  <div class="container">
-    <div class="row d-flex justify-content-center">
-      <div class="col-lg-8">
-        <div class="register__text">
-          <div class="section-title">
+        <br/><br/>
+
+        <div class="section-title">
             <h3>Arus Hulu</h3>
           </div>
          
-          <p>Hulu adalah awal mula aliran sungai, merupakan bagian sungai yang terletak di daerah pegunungan atau perbukitan</p>
+          <p>Hulu adalah awal mula aliran sungai, merupakan bagian sungai yang terletak di daerah pegunungan atau perbukitan. 
+          Adapun ciri-ciri dari arus Hulu yaitu : Arus deras, Pengikisan atau erosi ke dasar sungai, Saluran berbentuk VI, 
+          Tidak terdapat pengendapan, Batu masih besar-besar,
+          Terdapat jeram atau air terjun </p>
         </div>
+    
+
       </div>
     </div>
   </div>
-</section>
-<!-- Register Domain Section End -->
 
-<!-- Services Section Begin -->
-<section class="services-section spad">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="section-title">
-          <h3>Peta Drainase</h3>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg col-md col-sm">
-        <div class="services__item">
-          <h5>Pekanbaru</h5>
-          <span>Kec. Umban Sari , Kel. Meranti Pandak</span>
 
-          <div id="map" class="map">
-            <!-- ISI MAP -->
-          </div>
 
-          <div id="popup" class="ol-popup">
-            <!-- variabel container-->
-            <a href="#" id="popup-closer" class="ol-popup-closer"></a> <!-- variabel closer-->
-            <div id="popup-content"></div> <!-- variabel content_element-->
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>
 <!-- Services Section End -->
 <?php include 'footer.php'; ?>
