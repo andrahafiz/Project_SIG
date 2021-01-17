@@ -1,0 +1,353 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+          "FID": 47,
+          "No": 48,
+          "Lat": 0.559128,
+          "Long": 101.433397,
+          "Nama_Jalan": "Jl. Yos Sudarso",
+          "Panjang": 0,
+          "Lebar": 2.42,
+          "Kedalaman": 3,
+          "Bahan": "Alami",
+          "Kondisi": "Sedang",
+          "Arah_Alir": "Selatan",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.4333987236023,
+              0.5591566018159941
+            ],
+            [
+              101.43382787704468,
+              0.5579764859305412
+            ]
+          ]
+        }
+      },{
+        "type": "Feature",
+        "properties": {
+          "FID": 49,
+          "No": 50,
+          "Lat": 0.556607,
+          "Long": 101.43429,
+          "Nama_Jalan": "Jl. Yos Sudarso",
+          "Panjang": 107,
+          "Lebar": 2.98,
+          "Kedalaman": 1.5,
+          "Bahan": "Alami",
+          "Kondisi": "Bagus",
+          "Arah_Alir": "Selatan",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.43428921699524,
+              0.5566139882047719
+            ],
+            [
+              101.43436968326569,
+              0.5563591903667782
+            ]
+          ]
+        }
+      }, {
+        "type": "Feature",
+        "properties": {
+          "FID": 50,
+          "No": 51,
+          "Lat": 0.55635,
+          "Long": 101.434367,
+          "Nama_Jalan": "Jl. Yos Sudarso",
+          "Panjang": 32,
+          "Lebar": 2.2,
+          "Kedalaman": 0.5,
+          "Bahan": "Alami",
+          "Kondisi": "Bagus",
+          "Arah_Alir": "Selatan",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.43436431884764,
+              0.5563618724493326
+            ],
+            [
+              101.43481492996216,
+              0.5553051318253287
+            ]
+          ]
+        }
+      },{
+        "type": "Feature",
+        "properties": {
+          "FID": 51,
+          "No": 52,
+          "Lat": 0.55526,
+          "Long": 101.434816,
+          "Nama_Jalan": "Jl. Yos Sudarso",
+          "Panjang": 103,
+          "Lebar": 2.68,
+          "Kedalaman": 1.5,
+          "Bahan": "Alami",
+          "Kondisi": "Bagus",
+          "Arah_Alir": "Selatan",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.43481492996216,
+              0.5552836751609501
+            ],
+            [
+              101.43519043922423,
+              0.5539801826542463
+            ]
+          ]
+        }
+      },{
+        "type": "Feature",
+        "properties": {
+          "FID": 52,
+          "No": 53,
+          "Lat": 0.553971,
+          "Long": 101.435202,
+          "Nama_Jalan": "Jl. Yos Sudarso",
+          "Panjang": 148,
+          "Lebar": 1.17,
+          "Kedalaman": 2,
+          "Bahan": "Alami",
+          "Kondisi": "Bagus",
+          "Arah_Alir": "Selatan",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.43519580364227,
+              0.5539855468215432
+            ],
+            [
+              101.4354157447815,
+              0.553320390041524
+            ]
+          ]
+        }
+      }, {
+        "type": "Feature",
+        "properties": {
+          "FID": 53,
+          "No": 54,
+          "Lat": 0.553302,
+          "Long": 101.435418,
+          "Nama_Jalan": "Jl. Yos Sudarso",
+          "Panjang": 15,
+          "Lebar": 1.17,
+          "Kedalaman": 3,
+          "Bahan": "Alami",
+          "Kondisi": "Bagus",
+          "Arah_Alir": "Selatan",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.4354157447815,
+              0.553320390041524
+            ],
+            [
+              101.4373630285263,
+              0.5485301861949691
+            ]
+          ]
+        }
+      },{
+        "type": "Feature",
+        "properties": {
+          "FID": 26,
+          "No": 27,
+          "Lat": 0.541416,
+          "Long": 101.444313,
+          "Nama_Jalan": "Jl Pesisir",
+          "Panjang": 95,
+          "Lebar": 0.56,
+          "Kedalaman": 0.3,
+          "Bahan": "Alami",
+          "Kondisi": "Sedang",
+          "Arah_Alir": "Tenggara",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.44431263208388,
+              0.5414333821925584
+            ],
+            [
+              101.44510388374329,
+              0.5410230225223639
+            ]
+          ]
+        }
+      }, {
+        "type": "Feature",
+        "properties": {
+          "FID": 35,
+          "No": 36,
+          "Lat": 0.54542,
+          "Long": 101.448645,
+          "Nama_Jalan": "Jl Pesisir",
+          "Panjang": 11,
+          "Lebar": 0.83,
+          "Kedalaman": 0.24,
+          "Bahan": "Alami",
+          "Kondisi": "Rusak",
+          "Arah_Alir": "Timur",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.44864305853844,
+              0.545427011777709
+            ],
+            [
+              101.45003378391264,
+              0.5453760521152993
+            ]
+          ]
+        }
+      },{
+        "type": "Feature",
+        "properties": {
+          "FID": 36,
+          "No": 37,
+          "Lat": 0.54537,
+          "Long": 101.450034,
+          "Nama_Jalan": "Jl Pesisir",
+          "Panjang": 100,
+          "Lebar": 1.7,
+          "Kedalaman": 0.6,
+          "Bahan": "Alami",
+          "Kondisi": "Sedang",
+          "Arah_Alir": "Timur",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.45003110170364,
+              0.5453760521152993
+            ],
+            [
+              101.45102754235268,
+              0.5453827573340512
+            ]
+          ]
+        }
+      },{
+        "type": "Feature",
+        "properties": {
+          "FID": 37,
+          "No": 38,
+          "Lat": 0.545378,
+          "Long": 101.451027,
+          "Nama_Jalan": "Jl Pesisir",
+          "Panjang": 100,
+          "Lebar": 0.97,
+          "Kedalaman": 0.25,
+          "Bahan": "Alami",
+          "Kondisi": "Sedang",
+          "Arah_Alir": "Timur",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.45102486014366,
+              0.5453827573340512
+            ],
+            [
+              101.45193949341774,
+              0.5453948267278096
+            ]
+          ]
+        }
+      },{
+        "type": "Feature",
+        "properties": {
+          "FID": 38,
+          "No": 39,
+          "Lat": 0.545388,
+          "Long": 101.451939,
+          "Nama_Jalan": "Jl Pesisir",
+          "Panjang": 100,
+          "Lebar": 1.2,
+          "Kedalaman": 0.1,
+          "Bahan": "Alami",
+          "Kondisi": "Rusak",
+          "Arah_Alir": "Timur",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.45193949341774,
+              0.5453948267278096
+            ],
+            [
+              101.45276293158531,
+              0.5453492312401773
+            ]
+          ]
+        }
+      }, {
+        "type": "Feature",
+        "properties": {
+          "FID": 39,
+          "No": 40,
+          "Lat": 0.545341,
+          "Long": 101.452762,
+          "Nama_Jalan": "Jl Pesisir",
+          "Panjang": 100,
+          "Lebar": 0.6,
+          "Kedalaman": 0.55,
+          "Bahan": "Alami",
+          "Kondisi": "Rusak",
+          "Arah_Alir": "Timur",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.4527615904808,
+              0.5453478901964066
+            ],
+            [
+              101.45361855626106,
+              0.5453317976712851
+            ]
+          ]
+        }
+      }
+    ]
+    }

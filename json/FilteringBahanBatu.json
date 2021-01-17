@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+    "type": "Feature",
+    "properties": {
+      "FID": 25,
+      "No": 26,
+      "Lat": 0.541863,
+      "Long": 101.443414,
+      "Nama_Jalan": "Jl Pesisir",
+      "Panjang": 113,
+      "Lebar": 2.01,
+      "Kedalaman": 0.6,
+      "Bahan": "Batu",
+      "Kondisi": "Sedang",
+      "Arah_Alir": "Tenggara",
+      "Akhir_Pemb": "Sungai"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          101.44341140985489,
+          0.5418732448147552
+        ],
+        [
+          101.4443153142929,
+          0.5414307001033122
+        ]
+    ]
+  }
+}
+]
+}
