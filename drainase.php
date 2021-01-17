@@ -86,6 +86,9 @@ include 'header.php';
     </div>
   </div>
 </section>
+
+
+
 <!-- Services Section Begin -->
 <section class="services-section spad">
   <div class="container">
@@ -106,6 +109,7 @@ include 'header.php';
             <!-- ISI MAP -->
           </div>
 
+
           <div id="popup" class="ol-popup">
             <!-- variabel container-->
             <a href="#" id="popup-closer" class="ol-popup-closer"></a> <!-- variabel closer-->
@@ -118,4 +122,57 @@ include 'header.php';
   </div>
 </section>
 <!-- Services Section End -->
+
+<!-- About Section Begin -->
+<section class="register-domain spad visible">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      <div class="register__text text-center">
+        <div class="section-title">
+          <h3>Filter Data</h3>
+        </div>
+        <div class="m-5">
+          <a href="#map" class="primary-btn"> Bahan Drainase </a>
+          <a href="#" class="primary-btn"> Jalan </a>
+          <a href="#" class="primary-btn"> Kondisi Drainase </a>
+        </div>
+        <div class="about__text">
+          <div class="about__achievement">
+            <div class="about__achieve__item">
+              <span class="fa fa-clone"></span>
+              <h4 class="achieve-counter"> 17 </h4>
+              <p>JL. Pesisir</p>
+            </div>
+            <div class="about__achieve__item">
+              <span class="fa fa-clone"></span>
+              <h4 class="achieve-counter"> 6 </h4>
+              <p>JL. Panglima Undan</p>
+            </div>
+            <div class="about__achieve__item">
+              <span class="fa fa-clone"></span>
+              <h4 class="achieve-counter"> 28 </h4>
+              <p>JL. Yos Sudarso</p>
+            </div>
+            <div class="about__achieve__item">
+              <span class="fa fa-clone"></span>
+              <h4 class="achieve-counter"> 3 </h4>
+              <p>Gg. Gaharu</p>
+            </div>
+            <div class="about__achieve__item">
+              <span class="fa fa-clone"></span>
+              <h4 class="achieve-counter"> 26 </h4>
+              <p>Gg. Jaya</p>
+            </div>
+            <div class="about__achieve__item">
+              <span class="fa fa-clone"></span>
+              <h4 class="achieve-counter"> 3 </h4>
+              <p>Gg. Cendana</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- About Section End -->
 <?php include 'footer.php'; ?>
