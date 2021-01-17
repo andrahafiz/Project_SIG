@@ -90,7 +90,11 @@
                             <li><a href="./drainase.php">Drainase</a></li>
                             <li><a href="./titikbanjir.php">Titik Banjir</a></li>
                             <li><a href="./titiktersumbat.php">Titik Tersumbat</a></li>
+<<<<<<< HEAD
                             <li><a href="./tentang.php">Galeri</a></li>
+=======
+                            <li><a href="./gallery.php">Gallery</a></li>
+>>>>>>> 02afb3a969dfd90e27c45ff4ad9699f185ca7872
                             <li><a href="./tentang.php">Tentang</a></li>
                         </ul>
                     </nav>
