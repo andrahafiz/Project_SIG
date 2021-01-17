@@ -20,7 +20,7 @@ include 'header.php';
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title">
-                    <h3>Contact our team</h3>
+                    <h3 style="color:#000000;">Contact our team</h3>
                 </div>
                 <!-- Team Section Begin -->
                 <section class="team-section spad ">
