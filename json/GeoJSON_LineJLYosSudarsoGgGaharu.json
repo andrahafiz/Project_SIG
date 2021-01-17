@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+          "FID": 63,
+          "No": 64,
+          "Lat": 0.55031,
+          "Long": 101.436456,
+          "Nama_Jalan": "Jl. Yossudarso Gg. Gaharu",
+          "Panjang": 0,
+          "Lebar": 0.35,
+          "Kedalaman": 0.75,
+          "Bahan": "Beton",
+          "Kondisi": "Bagus",
+          "Arah_Alir": "Timur",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.43645107746124,
+              0.5503271836098715
+            ],
+            [
+              101.4372020959854,
+              0.5506275771548157
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "FID": 64,
+          "No": 65,
+          "Lat": 0.550638,
+          "Long": 101.437225,
+          "Nama_Jalan": "Jl. Yossudarso Gg. Gaharu",
+          "Panjang": 81,
+          "Lebar": 0.35,
+          "Kedalaman": 0.75,
+          "Bahan": "Beton",
+          "Kondisi": "Bagus",
+          "Arah_Alir": "Timur",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.4372020959854,
+              0.5506088025587044
+            ],
+            [
+              101.4373978972435,
+              0.5500871369715588
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "FID": 66,
+          "No": 67,
+          "Lat": 0.550082,
+          "Long": 101.437398,
+          "Nama_Jalan": "Jl. Yossudarso Gg. Gaharu",
+          "Panjang": 0,
+          "Lebar": 1.5,
+          "Kedalaman": 0.75,
+          "Bahan": "Beton",
+          "Kondisi": "Rusak",
+          "Arah_Alir": "Selatan",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.4373978972435,
+              0.5500898190569501
+            ],
+            [
+              101.43751993775368,
+              0.5499248708027519
+            ]
+          ]
+        }
+      }
+    ]
+  }

@@ -35,8 +35,8 @@ var map = new ol.Map({
     vectorLayerDrainase
   ],
   view: new ol.View({
-    center: ol.proj.fromLonLat([101.436, 0.545]),
-    zoom: 16
+    center: ol.proj.fromLonLat([101.436, 0.550]),
+    zoom: 15
   })
 });
 
@@ -146,30 +146,10 @@ var map_titiktersumbat = new ol.Map({
 
 map_titiktersumbat.addOverlay(overlay);
 
-// map_titiktersumbat.on('click', function (evt) {
-//   var feature = map_titiktersumbat.forEachFeatureAtPixel(evt.pixel,
-//     function (feature, layer) {
-//       return feature;
-//     });
+map_titiktersumbat.on('click', function (evt) {
+  geturl();
 
-//   if (feature) {
-//     var geometry = feature.getGeometry();
-//     var coord = geometry.getCoordinates();
-//     // console.log("Hi apa kabar!");
 
-//     var content = '<p class="text-center font-weight-bold m-0">Nama Jalana</p><p class="text-center m-0">' + feature.get('Nama Jalan') + '</p>';
-//     // var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
-//     // content += '<h3>Jumlah Korban : ' + feature.get('Jumlah_Korban') + '</h3>';
-//     // content += '<img src="https://drive.google.com/file/d/1EaZgWu1YzOmx6GqODlj2XUn_NeZaOLs8" width="300"/>';
-
-//     content_element.innerHTML = content;
-//     overlay.setPosition(coord);
-//     console.info(feature.getProperties());
-
-//   }
-// });
-
-map_titiktersumbat.addEventListener("mouseover", function () {
   var feature = map_titiktersumbat.forEachFeatureAtPixel(evt.pixel,
     function (feature, layer) {
       return feature;
@@ -178,9 +158,9 @@ map_titiktersumbat.addEventListener("mouseover", function () {
   if (feature) {
     var geometry = feature.getGeometry();
     var coord = geometry.getCoordinates();
-    console.log("Hi apa kabar!");
+    // console.log("Hi apa kabar!");
 
-    var content = '<p class="text-center font-weight-bold m-0">Nama Jalana</p><p class="text-center m-0">' + feature.get('Nama Jalan') + '</p>';
+    var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama Jalan') + '</p>';
     // var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
     // content += '<h3>Jumlah Korban : ' + feature.get('Jumlah_Korban') + '</h3>';
     // content += '<img src="https://drive.google.com/file/d/1EaZgWu1YzOmx6GqODlj2XUn_NeZaOLs8" width="300"/>';
@@ -191,27 +171,10 @@ map_titiktersumbat.addEventListener("mouseover", function () {
 
   }
 });
-// console.log(map_titiktersumbat)
-// map_titiktersumbat.on("mouseleave", function () {
-//   // masukin scriptnya disini.
-//   // var feature = map_titiktersumbat.forEachFeatureAtPixel(evt.pixel,
-//   //   function (feature, layer) {
-//   //     return feature;
-//   //   });
 
-//   // if (feature) {
-//   //   var geometry = feature.getGeometry();
-//   //   var coord = geometry.getCoordinates();
-//   //   // console.log("Hi apa kabar!");
-
-//   //   var content = '<p class="text-center font-weight-bold m-0">Nama Jalana</p><p class="text-center m-0">' + feature.get('Nama Jalan') + '</p>';
-//   //   // var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
-//   //   // content += '<h3>Jumlah Korban : ' + feature.get('Jumlah_Korban') + '</h3>';
-//   //   // content += '<img src="https://drive.google.com/file/d/1EaZgWu1YzOmx6GqODlj2XUn_NeZaOLs8" width="300"/>';
-
-//   //   content_element.innerHTML = content;
-//   //   overlay.setPosition(coord);
-//   //   console.info(feature.getProperties());
-
-//   // }
-// });
+function geturl() {
+  // code to be executed
+  const getLastItem = thePath => thePath.substring(thePath.lastIndexOf('/') + 1);
+  const Category = getLastItem(window.location.href).replace(".php", "").trim();
+  console.log(Category);
+};

@@ -1,0 +1,189 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+          "properties": {
+            "FID": 10,
+            "No": 11,
+            "Lat": 0.5459393,
+            "Long": 101.4381016,
+            "Nama_Jalan": "Jl.Panglima Undan",
+            "Panjang": 100,
+            "Lebar": 1.52,
+            "Kedalaman": 1.12,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Selatan",
+            "Akhir_Pemb": "Sungai"
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                101.43800139427185,
+                0.5459044233308776
+              ],
+              [
+                101.43826425075531,
+                0.5451051612710425
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "FID": 9,
+            "No": 10,
+            "Lat": 0.5450931,
+            "Long": 101.4383544,
+            "Nama_Jalan": "Jl.Panglima Undan",
+            "Panjang": 100,
+            "Lebar": 1.52,
+            "Kedalaman": 1.12,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Selatan",
+            "Akhir_Pemb": "Sungai"
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                101.43826693296432,
+                0.5450997970957943
+              ],
+              [
+                101.43865048885345,
+                0.5439572276572745
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "FID": 8,
+            "No": 9,
+            "Lat": 0.5439683,
+            "Long": 101.4387088,
+            "Nama_Jalan": "Jl.Panglima Undan",
+            "Panjang": 100,
+            "Lebar": 1.52,
+            "Kedalaman": 1.12,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Selatan",
+            "Akhir_Pemb": "Sungai"
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                101.43864780664444,
+                0.5439491813928563
+              ],
+              [
+                101.43900454044342,
+                0.5430506817986028
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "FID": 7,
+            "No": 8,
+            "Lat": 0.5430564,
+            "Long": 101.4390746,
+            "Nama_Jalan": "Jl.Panglima Undan",
+            "Panjang": 100,
+            "Lebar": 1.52,
+            "Kedalaman": 1.12,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Selatan",
+            "Akhir_Pemb": "Sungai"
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                101.43900454044342,
+                0.5430479997100691
+              ],
+              [
+                101.43927376717329,
+                0.5420955229417052
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "FID": 6,
+            "No": 7,
+            "Lat": 0.542093,
+            "Long": 101.439261,
+            "Nama_Jalan": "Jl.Panglima Undan",
+            "Panjang": 100,
+            "Lebar": 1.52,
+            "Kedalaman": 1.12,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Selatan",
+            "Akhir_Pemb": "Sungai"
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                101.4392737671733,
+                0.542094517158346
+              ],
+              [
+                101.43928047269583,
+                0.5420690373131403
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "FID": 2,
+            "No": 3,
+            "Lat": 0.54206,
+            "Long": 101.439272,
+            "Nama_Jalan": "Jl.Panglima Undan",
+            "Panjang": 10,
+            "Lebar": 0.42,
+            "Kedalaman": 0.65,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Timur",
+            "Akhir_Pemb": "Sungai"
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                101.43926404416561,
+                0.5420660199630373
+              ],
+              [
+                101.43920067697763,
+                0.5420566326516169
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  
+  
+  
+  
