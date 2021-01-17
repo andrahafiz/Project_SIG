@@ -29,7 +29,7 @@ include 'header.php';
 <!-- Achievement Section End -->
 
 <!-- Work Section Begin -->
-<section class="work-section spad">
+<section class="work-section spad border-0">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
