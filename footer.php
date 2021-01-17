@@ -9,14 +9,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="footer__text-about">
                         <div class="footer__logo">
-                            <a href="./index.html"><img src="img/drainasee.png" alt=""></a>
-                        </div>
-                        <p> </p>
-                        <div class="footer__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-youtube-play"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="./index.html"><img src="img/drainasee.png" alt="" height="40px" width="150px"></a>
                         </div>
                     </div>
                 </div>
@@ -38,7 +31,7 @@
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     Copyright &copy;<script>
                         document.write(new Date().getFullYear());
-                    </script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                    </script> Teamonesig 
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 </p>
             </div>

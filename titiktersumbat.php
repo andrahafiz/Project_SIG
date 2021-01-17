@@ -55,12 +55,60 @@ include 'header.php';
 </section>
 
 <!-- Work Section End -->
-<!-- Choose Plan Section Begin -->
+
+<!-- Choose Plan Section End -->
 <section class="choose-plan-section spad">
   <div class="container">
-  </div>
+<div class="tab-content">
+                            <div class="tab-pane active" id="tabs-1" role="tabpanel">
+                                <div class="hosting__feature__table">
+                                    <table>
+                                        <thead>
+                                            <tr>
+                                            <th>
+                                                    <div class="hosting__feature--plan">
+                                                        <div class="plan__title">Nama Jalan</div>
+                                                    </div>
+                                                </th>
+                                                <th>
+                                                    <div class="hosting__feature--plan">
+                                                        <div class="plan__title">Lattitude</div>
+                                                    </div>
+                                                </th>
+                                                <th>
+                                                    <div class="hosting__feature--plan">
+                                                        <div class="plan__title">Longitude</div>
+                                                    </div>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td class="hosting__feature--item">Jl. Pesisir </td>
+                                                <td class="hosting__feature--info">0,545476</td>
+                                                <td class="hosting__feature--info">101,455676</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="hosting__feature--item">Jl. Pesisir </td>
+                                                <td class="hosting__feature--info">0,5453787</td>
+                                                <td class="hosting__feature--info">101,451945</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="hosting__feature--item">Jl. Pesisir </td>
+                                                <td class="hosting__feature--info">0,54539</td>
+                                                <td class="hosting__feature--info">101,451113</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="hosting__feature--item">Jl. Pesisir  </td>
+                                                <td class="hosting__feature--info">0,540713</td>
+                                                <td class="hosting__feature--info">101,446426</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            </div>
 </section>
-<!-- Choose Plan Section End -->
 
 <?php
 include 'footer.php';
