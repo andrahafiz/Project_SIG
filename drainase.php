@@ -86,6 +86,98 @@ include 'header.php';
     </div>
   </div>
 </section>
+
+<section class="register-domain spad">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+        <div class="register__text">
+        <div class="section-title">
+            <h3>Filter Data</h3>
+          </div>
+        <div class="about__text">
+                        <div class="about__achievement">
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 17 </h4>
+                                <p>JL. Pesisir</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 6 </h4>
+                                <p>JL. Panglima Undan</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 28 </h4>
+                                <p>JL. Yos Sudarso</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 3 </h4>
+                                <p>Gg. Gaharu</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 26 </h4>
+                                <p>Gg. Jaya</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 3 </h4>
+                                <p>Gg. Cendana</p>
+                            </div>
+                        </div>
+                    </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+ <!-- About Section Begin 
+ <section class="register-domain spad">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      <div class="col-lg-8">
+                    <div class="about__text">
+                        <div class="about__achievement">
+                            <div class="about__achieve__item">
+                                <span class="fa fa-user-o"></span>
+                                <h4 class="achieve-counter">2468</h4>
+                                <p>Clients</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-edit"></span>
+                                <h4 class="achieve-counter">2468</h4>
+                                <p>Domains</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter">2468</h4>
+                                <p>Server</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-cog"></span>
+                                <h4 class="achieve-counter">2468</h4>
+                                <p>Installs</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-cog"></span>
+                                <h4 class="achieve-counter">2468</h4>
+                                <p>Installs</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-cog"></span>
+                                <h4 class="achieve-counter">2468</h4>
+                                <p>Installs</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    About Section End -->
+
 <!-- Services Section Begin -->
 <section class="services-section spad">
   <div class="container">
