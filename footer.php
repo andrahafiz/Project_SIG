@@ -9,7 +9,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="footer__text-about">
                         <div class="footer__logo">
-                            <a href="./index.html"><img src="img/drainasee.png" alt="" height="50px" width="170px"></a>
+                            <a href="./index.html"><img src="img/drainasee.png" alt="" height="40px" width="150px"></a>
                         </div>
                     </div>
                 </div>
