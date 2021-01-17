@@ -55,11 +55,82 @@ include 'header.php';
 </section>
 <!-- Work Section End -->
 <!-- Choose Plan Section Begin -->
+
+
+<!-- Choose Plan Section End -->
 <section class="choose-plan-section spad">
   <div class="container">
-  </div>
+<div class="tab-content">
+                            <div class="tab-pane active" id="tabs-1" role="tabpanel">
+                                <div class="hosting__feature__table">
+                                    <table>
+                                        <thead>
+                                            <tr>
+                                            <th>
+                                                    <div class="hosting__feature--plan">
+                                                        <div class="plan__title">Nama Jalan</div>
+                                                    </div>
+                                                </th>
+                                                <th>
+                                                    <div class="hosting__feature--plan">
+                                                        <div class="plan__title">Lattitude</div>
+                                                    </div>
+                                                </th>
+                                                <th>
+                                                    <div class="hosting__feature--plan">
+                                                        <div class="plan__title">Longitude</div>
+                                                    </div>
+                                                </th>
+                                                <th>
+                                                    <div class="hosting__feature--plan">
+                                                        <div class="plan__title">Kerusakan</div>
+                                                    </div>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td class="hosting__feature--item">Jl. Tugu Pembangunan</td>
+                                                <td class="hosting__feature--info">0,547225</td>
+                                                <td class="hosting__feature--info">101,439627</td>
+                                                <td class="hosting__feature--info">Sedang</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="hosting__feature--item">Jl. Pesisir </td>
+                                                <td class="hosting__feature--info">0,541024</td>
+                                                <td class="hosting__feature--info">101,447496</td>
+                                                <td class="hosting__feature--info">Sedang</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="hosting__feature--item">Jl. Tugu Pembangunan</td>
+                                                <td class="hosting__feature--info">0,546738</td>
+                                                <td class="hosting__feature--info">101,438635</td>
+                                                <td class="hosting__feature--info">Sedang</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="hosting__feature--item">Gg. Jaya </td>
+                                                <td class="hosting__feature--info">0,549258</td>
+                                                <td class="hosting__feature--info">101,439510</td>
+                                                <td class="hosting__feature--info">Sedang</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="hosting__feature--item">Jl. Jaya Cendana</td>
+                                                <td class="hosting__feature--info">0,549222</td>
+                                                <td class="hosting__feature--info">101,438117</td>
+                                                <td class="hosting__feature--info">Sedang</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="hosting__feature--item">Gg. Jaya </td>
+                                                <td class="hosting__feature--info">0,549214</td>
+                                                <td class="hosting__feature--info">101,439705</td>
+                                                <td class="hosting__feature--info">Sedang</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            </div>
 </section>
-<!-- Choose Plan Section End -->
 
 <?php
 include 'footer.php';
