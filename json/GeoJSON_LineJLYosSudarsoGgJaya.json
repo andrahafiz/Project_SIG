@@ -599,6 +599,190 @@
             ]
           ]
         }
-      }
+      },
+      {
+        "type": "Feature",
+            "properties": {
+              "FID": 76,
+              "No": 77,
+              "Lat": 0.548868,
+              "Long": 101.438283,
+              "Nama_Jalan": "Jl. Yos Sudarso Gg. Cendana",
+              "Panjang": 0,
+              "Lebar": 0.7,
+              "Kedalaman": 0.68,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43828302621841,
+                  0.5488721521625542
+                ],
+                [
+                  101.43868401646614,
+                  0.548994187071749
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 77,
+              "No": 78,
+              "Lat": 0.548981,
+              "Long": 101.438684,
+              "Nama_Jalan": "Jl. Yos Sudarso Gg. Cendana",
+              "Panjang": 21,
+              "Lebar": 0.7,
+              "Kedalaman": 0.7,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43868535757065,
+                  0.5489982102005803
+                ],
+                [
+                  101.43891736865042,
+                  0.5490531929610082
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 78,
+              "No": 79,
+              "Lat": 0.549037,
+              "Long": 101.438917,
+              "Nama_Jalan": "Jl. Yos Sudarso Gg. Cendana",
+              "Panjang": 13,
+              "Lebar": 0.7,
+              "Kedalaman": 0.7,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43891703337431,
+                  0.5490538634824801
+                ],
+                [
+                  101.4389230683446,
+                  0.5490515166573603
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 79,
+              "No": 80,
+              "Lat": 0.54905,
+              "Long": 101.438923,
+              "Nama_Jalan": "Jl. Yos Sudarso Gg. Cendana",
+              "Panjang": 120,
+              "Lebar": 0.7,
+              "Kedalaman": 0.7,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43892239779233,
+                  0.549051181396618
+                ],
+                [
+                  101.43895592540503,
+                  0.5490431351390189
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "FID": 80,
+              "No": 81,
+              "Lat": 0.549041,
+              "Long": 101.438956,
+              "Nama_Jalan": "Jl. Yos Sudarso Gg. Cendana",
+              "Panjang": 280,
+              "Lebar": 0.7,
+              "Kedalaman": 0.7,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43895626068114,
+                  0.5490441409212203
+                ],
+                [
+                  101.43909875303507,
+                  0.5490582218720156
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "stroke": "#555555",
+              "stroke-width": 2,
+              "stroke-opacity": 1,
+              "FID": 78,
+              "No": 79,
+              "Lat": 0.549037,
+              "Long": 101.438917,
+              "Nama_Jalan": "Jl. Yos Sudarso Gg. Cendana",
+              "Panjang": 60,
+              "Lebar": 0.7,
+              "Kedalaman": 0.7,
+              "Bahan": "Beton",
+              "Kondisi": "Bagus",
+              "Arah_Alir": "Timur",
+              "Akhir_Pemb": "Sungai"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  101.43922716379166,
+                  0.5491986961172917
+                ],
+                [
+                  101.43944710493088,
+                  0.5491819330810287
+                ]
+              ]
+            }
+          }
+      
     ]
   }
