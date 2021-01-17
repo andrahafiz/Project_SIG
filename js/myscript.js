@@ -163,7 +163,7 @@ map_titiktersumbat.on('click', function (evt) {
     var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama Jalan') + '</p>';
     // var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
     // content += '<h3>Jumlah Korban : ' + feature.get('Jumlah_Korban') + '</h3>';
-     content += '<img src='+ feature.get('Foto') +' width="300"/>';
+    content += '<img src=' + feature.get('Foto') + ' width="300px" height="200px"/>';
 
     content_element.innerHTML = content;
     overlay.setPosition(coord);
