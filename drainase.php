@@ -87,13 +87,18 @@ include 'header.php';
   </div>
 </section>
 
+<!-- About Section Begin -->
 <section class="register-domain spad">
   <div class="container">
     <div class="row d-flex justify-content-center">
-        <div class="register__text">
+        <div class="register__text text-center">
         <div class="section-title">
             <h3>Filter Data</h3>
           </div>
+          <div class="m-5">
+          <a href="#" class="primary-btn"> Bahan Drainase </a>
+          <a href="#" class="primary-btn"> Jalan </a>
+          <a href="#" class="primary-btn"> Kondisi Drainase </a></div>
         <div class="about__text">
                         <div class="about__achievement">
                             <div class="about__achieve__item">
@@ -132,51 +137,7 @@ include 'header.php';
     </div>
   </div>
 </section>
-
- <!-- About Section Begin 
- <section class="register-domain spad">
-  <div class="container">
-    <div class="row d-flex justify-content-center">
-      <div class="col-lg-8">
-                    <div class="about__text">
-                        <div class="about__achievement">
-                            <div class="about__achieve__item">
-                                <span class="fa fa-user-o"></span>
-                                <h4 class="achieve-counter">2468</h4>
-                                <p>Clients</p>
-                            </div>
-                            <div class="about__achieve__item">
-                                <span class="fa fa-edit"></span>
-                                <h4 class="achieve-counter">2468</h4>
-                                <p>Domains</p>
-                            </div>
-                            <div class="about__achieve__item">
-                                <span class="fa fa-clone"></span>
-                                <h4 class="achieve-counter">2468</h4>
-                                <p>Server</p>
-                            </div>
-                            <div class="about__achieve__item">
-                                <span class="fa fa-cog"></span>
-                                <h4 class="achieve-counter">2468</h4>
-                                <p>Installs</p>
-                            </div>
-                            <div class="about__achieve__item">
-                                <span class="fa fa-cog"></span>
-                                <h4 class="achieve-counter">2468</h4>
-                                <p>Installs</p>
-                            </div>
-                            <div class="about__achieve__item">
-                                <span class="fa fa-cog"></span>
-                                <h4 class="achieve-counter">2468</h4>
-                                <p>Installs</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    About Section End -->
+<!-- About Section End -->
 
 <!-- Services Section Begin -->
 <section class="services-section spad">
