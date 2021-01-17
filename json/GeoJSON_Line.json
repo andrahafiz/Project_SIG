@@ -2437,9 +2437,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "FID": 78,
         "No": 79,
         "Lat": 0.549037,
