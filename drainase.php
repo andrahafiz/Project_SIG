@@ -5,7 +5,7 @@ include 'header.php';
 <!-- Hero Section Begin -->
 <section class="hero-section">
   <div class="hero__slider owl-carousel">
-    <div class="hero__item set-bg" data-setbg="img/hero/hero-1.jpg">
+    <div class="hero__item set-bg" data-setbg="img/bg1.png">
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
@@ -23,7 +23,7 @@ include 'header.php';
         </div>
       </div>
     </div>
-    <div class="hero__item set-bg" data-setbg="img/hero/hero-1.jpg">
+    <div class="hero__item set-bg" data-setbg="img/bg1.png">
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
