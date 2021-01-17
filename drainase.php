@@ -175,4 +175,79 @@ include 'header.php';
   </div>
 </section>
 <!-- About Section End -->
+
+<!-- About Section Begin -->
+<section class="register-domain spad">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+        <div class="register__text text-center">
+        <div class="section-title">
+            <h3>Filter Data</h3>
+          </div>
+          <div class="m-5">
+          <a href="#" class="primary-btn"> Bahan Drainase </a>
+          <a href="#" class="primary-btn"> Jalan </a>
+          <a href="#" class="primary-btn"> Kondisi Drainase </a></div>
+            <div class="about__text">
+                        <div class="about__achievement">
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 12 </h4>
+                                <p>Bahan Alami</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 1 </h4>
+                                <p>Bahan Batu</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 71 </h4>
+                                <p>Bahan Beton</p>
+                            </div>
+                        </div>
+                    </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- About Section End -->
+
+<!-- About Section Begin -->
+<section class="register-domain spad">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+        <div class="register__text text-center">
+        <div class="section-title">
+            <h3>Filter Data</h3>
+          </div>
+          <div class="m-5">
+          <a href="#" class="primary-btn"> Bahan Drainase </a>
+          <a href="#" class="primary-btn"> Jalan </a>
+          <a href="#" class="primary-btn"> Kondisi Drainase </a></div>
+        <div class="about__text">
+                        <div class="about__achievement">
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 67 </h4>
+                                <p>Kondisi Bagus</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 9 </h4>
+                                <p>Kondisi Sedang</p>
+                            </div>
+                            <div class="about__achieve__item">
+                                <span class="fa fa-clone"></span>
+                                <h4 class="achieve-counter"> 7 </h4>
+                                <p>Kondisi Rusak</p>
+                            </div>
+                        </div>
+                    </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- About Section End -->
+
 <?php include 'footer.php'; ?>
