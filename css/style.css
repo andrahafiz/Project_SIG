@@ -226,12 +226,14 @@ ol {
 		border: 4px solid #f44336;
 		border-left-color: transparent;
 	}
+
 	50% {
 		-webkit-transform: rotate(180deg);
 		transform: rotate(180deg);
 		border: 4px solid #673ab7;
 		border-left-color: transparent;
 	}
+
 	100% {
 		-webkit-transform: rotate(360deg);
 		transform: rotate(360deg);
@@ -246,11 +248,13 @@ ol {
 		border: 4px solid #f44336;
 		border-left-color: transparent;
 	}
+
 	50% {
 		-webkit-transform: rotate(180deg);
 		border: 4px solid #673ab7;
 		border-left-color: transparent;
 	}
+
 	100% {
 		-webkit-transform: rotate(360deg);
 		border: 4px solid #f44336;
@@ -553,6 +557,16 @@ ol {
 }
 
 .register__text .register__form form input {
+	width: 100%;
+	height: 54px;
+	border: 2px solid #4c57d6;
+	border-radius: 50px;
+	font-size: 14px;
+	color: #111111;
+	padding-left: 20px;
+}
+
+.register__text .register__form form .inputan {
 	width: 100%;
 	height: 54px;
 	border: 2px solid #4c57d6;
@@ -2613,12 +2627,15 @@ ol {
 	.register__text .register__result ul li {
 		margin-right: 30px;
 	}
+
 	.about__text .about__achievement .about__achieve__item {
 		margin-right: 60px;
 	}
+
 	.blog__details__comment .blog__details__comment__list .blog__details__comment__item.blog__details__comment__reply {
 		margin-left: 0;
 	}
+
 	.blog__item .blog__text ul li {
 		margin-right: 5px;
 	}
@@ -2630,72 +2647,93 @@ ol {
 	.register__text .register__result ul li {
 		margin-right: 50px;
 	}
+
 	.work__item {
 		margin-bottom: 30px;
 	}
+
 	.plan__text {
 		padding-top: 40px;
 	}
+
 	.footer__text {
 		padding-top: 240px;
 	}
+
 	.about__text {
 		padding-top: 40px;
 	}
+
 	.footer__top-call {
 		margin-bottom: 30px;
 	}
+
 	.footer__top-auth {
 		padding-left: 0;
 	}
+
 	.question__accordin {
 		margin-bottom: 20px;
 	}
+
 	.hero__item {
 		height: auto;
 		padding-bottom: 100px;
 		padding-top: 100px;
 	}
+
 	.header__menu ul li {
 		margin-right: 20px;
 	}
+
 	.header__info-left ul li {
 		margin-right: 5px;
 	}
+
 	.header__info-right ul li {
 		margin-right: 10px;
 	}
+
 	.team__item {
 		text-align: center;
 	}
+
 	.team__item .team__pic {
 		float: none;
 		margin-bottom: 15px;
 		margin-right: 0;
 	}
+
 	.blog__hero__text {
 		padding-top: 90px;
 	}
+
 	.blog__details__comment .blog__details__comment__list .blog__details__comment__item.blog__details__comment__reply {
 		margin-left: 50px;
 	}
+
 	.blog-hero-section {
 		height: 640px;
 	}
+
 	.contact__text {
 		margin-bottom: 30px;
 	}
+
 	.blog__sidebar {
 		padding-top: 50px;
 	}
+
 	.blog-hero-section {
 		height: auto;
 	}
+
 	.blog-hero-section .blog__hero__pic {
 		position: relative;
 		width: 100%;
 		height: 640px;
 	}
+
 	.blog__hero__text {
 		padding-bottom: 40px;
 	}
@@ -2707,12 +2745,15 @@ ol {
 	.header__info {
 		display: none;
 	}
+
 	.header__menu {
 		display: none;
 	}
+
 	.header-section .container {
 		position: relative;
 	}
+
 	.offcanvas__menu__overlay {
 		position: fixed;
 		left: 0;
@@ -2726,9 +2767,11 @@ ol {
 		-o-transition: all 0.3s;
 		transition: all 0.3s;
 	}
+
 	.offcanvas__menu__overlay.active {
 		visibility: visible;
 	}
+
 	.canvas__open {
 		display: block;
 		font-size: 20px;
@@ -2743,6 +2786,7 @@ ol {
 		right: 15px;
 		top: 30px;
 	}
+
 	.offcanvas__menu__wrapper {
 		display: block;
 		width: 300px;
@@ -2762,10 +2806,12 @@ ol {
 		-o-transition: all 0.3s;
 		transition: all 0.3s;
 	}
+
 	.offcanvas__menu__wrapper.show__offcanvas__menu {
 		opacity: 1;
 		left: 0;
 	}
+
 	.offcanvas__menu__wrapper .canvas__close {
 		font-size: 30px;
 		color: #ffffff;
@@ -2774,29 +2820,37 @@ ol {
 		top: 20px;
 		cursor: pointer;
 	}
+
 	.offcanvas__menu__wrapper .offcanvas__logo {
 		margin-bottom: 30px;
 	}
+
 	.offcanvas__menu__wrapper .offcanvas__menu {
 		display: none;
 	}
+
 	.offcanvas__menu__wrapper .slicknav_btn {
 		display: none;
 	}
+
 	.offcanvas__menu__wrapper .slicknav_nav .slicknav_item a {
 		border-bottom: none !important;
 	}
+
 	.offcanvas__menu__wrapper .slicknav_nav {
 		display: block !important;
 	}
+
 	.offcanvas__menu__wrapper .slicknav_menu {
 		background: transparent;
 		padding: 0;
 		margin-bottom: 30px;
 	}
+
 	.offcanvas__menu__wrapper .slicknav_nav ul {
 		margin: 0;
 	}
+
 	.offcanvas__menu__wrapper .slicknav_nav a {
 		color: #ffffff;
 		font-size: 16px;
@@ -2804,21 +2858,25 @@ ol {
 		margin: 0;
 		border-bottom: 1px solid #e1e1e1;
 	}
+
 	.offcanvas__menu__wrapper .slicknav_nav a:hover {
 		border-radius: 0;
 		background: transparent;
 		color: #111111;
 	}
+
 	.offcanvas__menu__wrapper .slicknav_nav .slicknav_row,
 	.offcanvas__menu__wrapper .slicknav_nav a {
 		padding: 8px 0;
 	}
+
 	.offcanvas__menu__wrapper .offcanvas__info ul li {
 		font-size: 16px;
 		color: #ffffff;
 		list-style: none;
 		margin-bottom: 10px;
 	}
+
 	.offcanvas__menu__wrapper .offcanvas__info ul li span {
 		height: 30px;
 		width: 30px;
@@ -2829,18 +2887,22 @@ ol {
 		display: inline-block;
 		margin-right: 5px;
 	}
+
 	.offcanvas__menu__wrapper .offcanvas__auth {
 		margin-bottom: 20px;
 	}
+
 	.offcanvas__menu__wrapper .offcanvas__auth ul li {
 		list-style: none;
 		margin-bottom: 10px;
 	}
+
 	.offcanvas__menu__wrapper .offcanvas__auth ul li a {
 		font-size: 16px;
 		color: #ffffff;
 		display: block;
 	}
+
 	.offcanvas__menu__wrapper .offcanvas__auth ul li a span {
 		height: 30px;
 		width: 30px;
@@ -2851,101 +2913,130 @@ ol {
 		display: inline-block;
 		margin-right: 5px;
 	}
+
 	.hero__item {
 		height: auto;
 		padding-bottom: 100px;
 	}
+
 	.register__text .register__result ul li {
 		margin-right: 10px;
 	}
+
 	.pricing__swipe-btn {
 		float: none;
 		margin-bottom: 40px;
 	}
+
 	.work__item {
 		margin-bottom: 30px;
 	}
+
 	.plan__text {
 		padding-top: 40px;
 	}
+
 	.footer__top-auth {
 		padding-left: 0;
 	}
+
 	.footer__top-call {
 		margin-bottom: 30px;
 	}
+
 	.about__text {
 		padding-top: 40px;
 	}
+
 	.about__text .about__achievement .about__achieve__item {
 		margin-right: 45px;
 	}
+
 	.team__btn {
 		text-align: left;
 		margin-bottom: 40px;
 	}
+
 	.team__item {
 		text-align: center;
 	}
+
 	.team__item .team__pic {
 		float: none;
 		margin-bottom: 15px;
 		margin-right: 0;
 	}
+
 	.blog__hero__text {
 		padding-top: 90px;
 	}
+
 	.hosting__text .nav-tabs .nav-item {
 		width: 33.33%;
 	}
+
 	.hosting__feature__table {
 		overflow-x: auto;
 	}
+
 	.question__accordin {
 		margin-bottom: 20px;
 	}
+
 	.blog__sidebar {
 		padding-top: 50px;
 	}
+
 	.blog__details__item .blog__details__item__pic {
 		float: none;
 		margin-right: 0;
 		margin-bottom: 30px;
 	}
+
 	.blog__details__comment .blog__details__comment__list .blog__details__comment__item.blog__details__comment__reply {
 		margin-left: 0;
 	}
+
 	.blog__details__comment .blog__details__comment__list .blog__details__comment__item .blog__details__comment__text ul {
 		position: relative;
 		margin-bottom: 20px;
 	}
+
 	.footer__text {
 		padding-top: 210px;
 	}
+
 	.blog-hero-section {
 		height: auto;
 	}
+
 	.blog-hero-section .blog__hero__pic {
 		position: relative;
 		width: 100%;
 		height: 640px;
 	}
+
 	.blog__hero__text {
 		padding-bottom: 40px;
 	}
+
 	.blog__details__option .blog__details__option__item.blog__details__option__item--next {
 		padding-top: 40px;
 	}
+
 	.text__404 form {
 		width: 100%;
 	}
+
 	.contact__text {
 		margin-bottom: 30px;
 	}
+
 	.contact-form form .input-list {
 		margin-right: 0;
 		overflow: visible;
 	}
+
 	.contact-form form .input-list input {
 		width: 100%;
 		margin-right: 0;
@@ -2958,52 +3049,66 @@ ol {
 	.register__text .register__result ul li {
 		margin-bottom: 10px;
 	}
+
 	.team__item .team__pic {
 		float: none;
 		margin-right: 0;
 	}
+
 	.team__item .team__text {
 		overflow: visible;
 		padding-top: 30px;
 	}
+
 	.hosting__text .nav-tabs .nav-item {
 		width: 50%;
 	}
+
 	.blog__details__profile .blog__details__profile__pic {
 		float: none;
 		margin-right: 0;
 	}
+
 	.blog__details__profile .blog__details__profile__text {
 		overflow: visible;
 		padding-top: 30px;
 	}
+
 	.blog__details__comment .blog__details__comment__list .blog__details__comment__item .blog__details__comment__pic {
 		float: none;
 		margin-right: 0;
 	}
+
 	.blog__details__comment .blog__details__comment__list .blog__details__comment__item .blog__details__comment__text {
 		overflow: visible;
 		padding-top: 30px;
 	}
+
 	.blog__details__comment {
 		padding-left: 30px;
 		padding-right: 30px;
 	}
+
 	.contact__text {
 		margin-bottom: 30px;
 	}
+
 	.contact__text ul li p {
 		font-size: 13px;
 	}
+
 	.register__text .register__form form span:before {
 		left: -5px;
 	}
+
 	.register__text .register__form form span {
 		right: 135px;
 	}
+
 	.register__text .register__form form span:after {
 		right: -11px;
 	}
+
 	.load-more .primary-btn {
 		padding: 14px 35px 12px;
 	}

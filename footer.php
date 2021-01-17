@@ -11,9 +11,7 @@
                         <div class="footer__logo">
                             <a href="./index.html"><img src="img/drainasee.png" alt=""></a>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida viverra maecen
-                            lacus vel facilisis. </p>
+                        <p> </p>
                         <div class="footer__social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
@@ -22,31 +20,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-6 col-sm-6">
-                    <div class="footer__text-widget">
-                        <h5>Company</h5>
-                        <ul>
-                            <li><a href="#">Company</a></li>
-                            <li><a href="#">About Us</a></li>
-                            <li><a href="#">Press & Media</a></li>
-                            <li><a href="#">News / Blogs</a></li>
-                            <li><a href="#">Careers</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6 col-sm-6">
-                    <div class="footer__text-widget">
-                        <h5>Hosting</h5>
-                        <ul>
-                            <li><a href="#">Web Hosting</a></li>
-                            <li><a href="#">Reseller Hosting</a></li>
-                            <li><a href="#">VPS Hosting</a></li>
-                            <li><a href="#">Dedicated Servers</a></li>
-                            <li><a href="#">Cloud Hosting</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+
+                <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="footer__text-widget">
                         <h5>Anggota Tim</h5>
                         <ul class="footer__widget-info">
