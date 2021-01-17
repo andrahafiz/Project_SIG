@@ -1,1 +1,62 @@
-{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"EPSG:4326"}},"features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[101.455676,0.54547599999999996]},"properties":{"No":1,"Lat":0.54547599999999996,"Long":101.455676,"Nama Jalan":"Jl Pesisir","Foto":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.45194499999999,0.54537869999999999]},"properties":{"No":2,"Lat":0.54537869999999999,"Long":101.45194499999999,"Nama Jalan":"Jl Pesisir","Foto":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.45111300000001,0.54539000000000004]},"properties":{"No":3,"Lat":0.54539000000000004,"Long":101.45111300000001,"Nama Jalan":"Jl Pesisir","Foto":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.446426,0.540713]},"properties":{"No":4,"Lat":0.540713,"Long":101.446426,"Nama Jalan":"Jl Pesisir","Foto":null}}]}
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.455676, 0.54547599999999996]
+        },
+        "properties": {
+            "No": 1,
+            "Lat": 0.54547599999999996,
+            "Long": 101.455676,
+            "Nama Jalan": "Jl Pesisir",
+            "Foto": "img/Banjir/img1.png"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.45194499999999, 0.54537869999999999]
+        },
+        "properties": {
+            "No": 2,
+            "Lat": 0.54537869999999999,
+            "Long": 101.45194499999999,
+            "Nama Jalan": "Jl Pesisir",
+            "Foto": "img/Banjir/img1.png"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.45111300000001, 0.54539000000000004]
+        },
+        "properties": {
+            "No": 3,
+            "Lat": 0.54539000000000004,
+            "Long": 101.45111300000001,
+            "Nama Jalan": "Jl Pesisir",
+            "Foto": "img/Banjir/img1.png"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.446426, 0.540713]
+        },
+        "properties": {
+            "No": 4,
+            "Lat": 0.540713,
+            "Long": 101.446426,
+            "Nama Jalan": "Jl Pesisir",
+            "Foto": "img/Banjir/img1.png"
+        }
+    }]
+}

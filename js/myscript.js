@@ -106,7 +106,7 @@ map_titikbanjir.on('click', function (evt) {
     var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
     // var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
     // content += '<h3>Jumlah Korban : ' + feature.get('Jumlah_Korban') + '</h3>';
-    // content += '<img src="https://drive.google.com/file/d/1EaZgWu1YzOmx6GqODlj2XUn_NeZaOLs8" width="300"/>';
+    // content += '<img src='+ feature.get('foto') +' width="300"/>';
 
     content_element.innerHTML = content;
     overlay.setPosition(coord);
@@ -163,7 +163,7 @@ map_titiktersumbat.on('click', function (evt) {
     var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama Jalan') + '</p>';
     // var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
     // content += '<h3>Jumlah Korban : ' + feature.get('Jumlah_Korban') + '</h3>';
-    // content += '<img src="https://drive.google.com/file/d/1EaZgWu1YzOmx6GqODlj2XUn_NeZaOLs8" width="300"/>';
+     content += '<img src='+ feature.get('Foto') +' width="300"/>';
 
     content_element.innerHTML = content;
     overlay.setPosition(coord);
