@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+          "FID": 68,
+          "No": 69,
+          "Lat": 0.549622,
+          "Long": 101.436938,
+          "Nama_Jalan": "Jl. Yos Sudarso Gg. Cendana",
+          "Panjang": 0,
+          "Lebar": 0.8,
+          "Kedalaman": 0.15,
+          "Bahan": "Beton",
+          "Kondisi": "Bagus",
+          "Arah_Alir": "Timur",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.43693923950195,
+              0.5496405697360351
+            ],
+            [
+              101.43750250339508,
+              0.5498605007510938
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "FID": 70,
+          "No": 71,
+          "Lat": 0.54984,
+          "Long": 101.437502,
+          "Nama_Jalan": "Jl. Yos Sudarso Gg. Cendana",
+          "Panjang": 100,
+          "Lebar": 0.8,
+          "Kedalaman": 0.15,
+          "Bahan": "Beton",
+          "Kondisi": "Bagus",
+          "Arah_Alir": "Timur",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.43750786781311,
+              0.5498658649220929
+            ],
+            [
+              101.43838763237,
+              0.5502145360266133
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "FID": 72,
+          "No": 73,
+          "Lat": 0.550206,
+          "Long": 101.438392,
+          "Nama_Jalan": "Jl. Yos Sudarso Gg. Cendana",
+          "Panjang": 105,
+          "Lebar": 0.8,
+          "Kedalaman": 0.15,
+          "Bahan": "Beton",
+          "Kondisi": "Sedang",
+          "Arah_Alir": "Timur",
+          "Akhir_Pemb": "Sungai"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              101.43839836120605,
+              0.5502252643679499
+            ],
+            [
+              101.43882751464844,
+              0.550391553656479
+            ]
+          ]
+        }
+      }
+    ]
+  }
