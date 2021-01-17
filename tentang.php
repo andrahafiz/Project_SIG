@@ -25,9 +25,9 @@ include 'header.php';
                     
           </div>
           <div class="row m-5">
-          <p>Project ini merupakan project mata kuliah Bengkel Sistem Informasi Geografis.
-            Project ini berisi tentang Informasi Drainase-drainase yang berada didaerah Rumbai,
-            tepatnya di Kecamatan Merpati Pandak </p>
+          <p>Website ini merupakan Website yang berisi tentang informasi Drainase atau Parit yang berada di daerah Rumbai. Website ini 
+              dibuat menggunakan bahasa JSON, PHP, dan HTML.</p>
+
         </div>
 
           </div>
