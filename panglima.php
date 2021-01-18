@@ -14,12 +14,35 @@ include 'header.php';
 </section>
 <!-- Achievement Section End -->
 
-<section class="work-section spad border-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="section-title">
-          <h3 style="color:#000000;">Peta Drainase</h3>
+<!-- Services Section Begin -->
+<section class="services-section spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title">
+                    <h3>Peta Drainase</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg col-md col-sm">
+                <div class="services__item">
+                    <div class="row">
+                        <div class="col-lg-5">
+                            <h5>Pekanbaru</h5>
+                            <span>Kec. Umban Sari , Kel. Meranti Pandak</span>
+                        </div>
+                        <div class="col-lg">
+                            <span class="mt-4 badge badge-pill badge-info w-auto float-right text-white" style="background-color:#4c57d6;">Jalan Panglima Undan</span>
+                        </div>
+                    </div>
+
+                    <div id="map" class="map">
+                        <!-- ISI MAP -->
+                    </div>
+                </div>
+            </div>
+            
         </div>
       </div>
     </div>
