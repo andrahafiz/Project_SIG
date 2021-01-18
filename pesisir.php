@@ -190,7 +190,7 @@ include 'header.php';
 </section>
 
 <?php include 'footer.php'; ?>
-<script src="js/script_JlnPanglima.js"></script>
+<script src="js/script_JlnPesisir.js"></script>
 </body>
 
 </html>

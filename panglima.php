@@ -55,10 +55,10 @@ include 'header.php';
                 <div class="m-5">
 
                     <button class="site-btn" data-toggle="collapse" data-target="#collapseBahan" aria-expanded="false" aria-controls="collapseBahan">
-                        Bahan Drainase
+                        Jalan
                     </button>
                     <button class="site-btn" type="button" data-toggle="collapse" data-target="#collapseJalan" aria-expanded="false" aria-controls="collapseJalan">
-                        Jalan
+                        Bahan Drainase
                     </button>
                     <button class="site-btn" type="button" data-toggle="collapse" data-target="#collapseKondisi" aria-expanded="false" aria-controls="collapseKondisi">
                         Kondisi Drainase
