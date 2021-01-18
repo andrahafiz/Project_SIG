@@ -2,30 +2,24 @@
 include 'header.php';
 ?>
 
-<!-- Hero Section Begin -->
-<section class="hero-section">
-  <div class="hero__slider owl-carousel">
-    <div class="hero__item set-bg" data-setbg="img/bg1.png">
+<!-- Achievement Section Begin -->
+<section class="achievement-section set-bg spad" data-setbg="img/bg1.png">
+    <div class="container mt-5">
+        <div class="row justify-content-md-center">
+            <div class="col-lg-3 col-md-3 col-sm-6">
 
+            </div>
+        </div>
     </div>
-    <div class="hero__item set-bg" data-setbg="img/bg1.png">
-
-    </div>
-  </div>
 </section>
-<!-- Hero Section End -->
+<!-- Achievement Section End -->
 
-
-
-
-
-<!-- Services Section Begin -->
-<section class="services-section spad">
+<section class="work-section spad border-0">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
         <div class="section-title">
-          <h3>Peta Drainase</h3>
+          <h3 style="color:#000000;">Peta Drainase</h3>
         </div>
       </div>
     </div>
