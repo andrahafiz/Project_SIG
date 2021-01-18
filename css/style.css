@@ -576,6 +576,32 @@ ol {
 	padding-left: 20px;
 }
 
+
+.btn-kategori {
+	background-color: transparent;
+	border-radius: 27px;
+	border: 0px solid #18ab29;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 17px;
+	padding: 16px 31px;
+	text-decoration: none;
+
+}
+
+.btn-kategori:hover {
+	background-color: #acb9fc78;
+
+}
+
+.btn-kategori:active {
+	position: relative;
+	top: 1px;
+}
+
+
 .register__text .register__form form input::-webkit-input-placeholder {
 	color: #111111;
 }
@@ -1208,8 +1234,8 @@ ol {
 
 .about__text .about__achievement .about__achieve__item {
 	display: inline-block;
-	margin-right: 95px;
-	margin-bottom: 30px;
+	margin-right: 30px;
+	/* margin-bottom: 30px; */
 }
 
 .about__text .about__achievement .about__achieve__item:last-child {

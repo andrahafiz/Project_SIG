@@ -13,6 +13,7 @@ var vectorLayer = new ol.layer.Vector({
   })
 });
 
+
 var vectorLayerDrainase = new ol.layer.Vector({
   source: new ol.source.Vector({
     format: new ol.format.GeoJSON(),
@@ -182,3 +183,6 @@ function geturl() {
   const Category = getLastItem(window.location.href).replace(".php", "").trim();
   console.log(Category);
 };
+
+// document.getElementById("tombol_p").
+// addEventListener("click", testnilai);

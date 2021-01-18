@@ -6,24 +6,10 @@ include 'header.php';
 <section class="hero-section">
   <div class="hero__slider owl-carousel">
     <div class="hero__item set-bg" data-setbg="img/bg1.png">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6">
-          </div>
-          <div class="col-lg-6">
-          </div>
-        </div>
-      </div>
+
     </div>
     <div class="hero__item set-bg" data-setbg="img/bg1.png">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6">
-          </div>
-          <div class="col-lg-6">
-          </div>
-        </div>
-      </div>
+
     </div>
   </div>
 </section>
@@ -31,51 +17,7 @@ include 'header.php';
 
 
 
-<div class="accordion" id="accordionExample">
-  <div class="card">
-    <div class="card-header" id="headingOne">
-      <h2 class="mb-0">
-        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          Collapsible Group Item #1
-        </button>
-      </h2>
-    </div>
 
-    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
-      <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="headingTwo">
-      <h2 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Collapsible Group Item #2
-        </button>
-      </h2>
-    </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-      <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="headingThree">
-      <h2 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Collapsible Group Item #3
-        </button>
-      </h2>
-    </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-      <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- Services Section Begin -->
 <section class="services-section spad">
@@ -96,13 +38,6 @@ include 'header.php';
           <div id="map" class="map">
             <!-- ISI MAP -->
           </div>
-
-
-          <div id="popup" class="ol-popup">
-            <!-- variabel container-->
-            <a href="#" id="popup-closer" class="ol-popup-closer"></a> <!-- variabel closer-->
-            <div id="popup-content"></div> <!-- variabel content_element-->
-          </div>
         </div>
       </div>
 
@@ -110,9 +45,7 @@ include 'header.php';
   </div>
 </section>
 <!-- Services Section End -->
-
-<!-- About Section Begin -->
-<section class="register-domain spad visible">
+<section class="register-domain spad">
   <div class="container">
     <div class="row d-flex justify-content-center">
       <div class="register__text text-center">
@@ -120,122 +53,163 @@ include 'header.php';
           <h3>Filter Data</h3>
         </div>
         <div class="m-5">
-          <a href="#map" class="primary-btn"> Bahan Drainase </a>
-          <a href="#" class="primary-btn"> Jalan </a>
-          <a href="#" class="primary-btn"> Kondisi Drainase </a>
+
+          <button class="site-btn" data-toggle="collapse" data-target="#collapseBahan" aria-expanded="false" aria-controls="collapseBahan">
+            Bahan Drainase
+          </button>
+          <button class="site-btn" type="button" data-toggle="collapse" data-target="#collapseJalan" aria-expanded="false" aria-controls="collapseJalan">
+            Jalan
+          </button>
+          <button class="site-btn" type="button" data-toggle="collapse" data-target="#collapseKondisi" aria-expanded="false" aria-controls="collapseKondisi">
+            Kondisi Drainase
+          </button>
         </div>
-        <div class="about__text">
+        <div class="accordion" id="accordionExample">
+          <div class="card border-0">
+            <div id="" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+              <div class="card-body">
+                No Filter
+              </div>
+            </div>
+            <div id="collapseBahan" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+              <div class="card-body">
+                <div class="about__text">
+                  <div class="about__achievement">
+                    <div class="about__achieve__item  ">
+                      <a href="pesisir.php">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 17 </h4>
+                        <p id="pesisir">JL. Pesisir</p>
+
+                      </a>
+                    </div>
+                    <div class="about__achieve__item  ">
+                      <!-- <button class="btn-kategori" value="panglima" onclick="dosomething(this.value)"> -->
+                      <a href="panglima.php">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 6 </h4>
+                        <p id="pesisir">JL. Panglima Undan</p>
+                      </a>
+                      <!-- </button> -->
+                    </div>
+                    <div class="about__achieve__item  ">
+                      <a href="yosudarso.php">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 28 </h4>
+                        <p>JL. Yos Sudarso</p>
+                      </a>
+                    </div>
+                    <div class="about__achieve__item  ">
+                      <a href="gaharu.php">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 3 </h4>
+                        <p>Gg. Gaharu</p>
+                      </a>
+                    </div>
+                    <div class="about__achieve__item  ">
+                      <a href="jaya.php">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 26 </h4>
+                        <p>Gg. Jaya</p>
+                      </a>
+                    </div>
+                    <div class="about__achieve__item  ">
+                      <a href="cendana.php">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 3 </h4>
+                        <p>Gg. Cendana</p>
+                        </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="collapseJalan" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+              <div class="card-body">
+                <div class="about__text">
+                  <div class="about__achievement">
+                    <div class="about__achieve__item  ">
+                      <button class="btn-kategori" onclick="dosomething(this.value)">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 12 </h4>
+                        <p>Bahan Alami</p>
+                      </button>
+                    </div>
+                    <div class="about__achieve__item  ">
+                      <button class="btn-kategori" onclick="dosomething(this.value)">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 1 </h4>
+                        <p>Bahan Batu</p>
+                      </button>
+                    </div>
+                    <div class="about__achieve__item  ">
+                      <button class="btn-kategori" onclick="dosomething(this.value)">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 71 </h4>
+                        <p>Bahan Beton</p>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="collapseKondisi" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+              <div class="card-body">
+                <div class="about__text">
+                  <div class="about__achievement">
+                    <div class="about__achieve__item  ">
+                      <button class="btn-kategori" onclick="dosomething(this.value)">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 67 </h4>
+                        <p>Kondisi Bagus</p>
+                      </button>
+                    </div>
+                    <div class="about__achieve__item  ">
+                      <button class="btn-kategori" onclick="dosomething(this.value)">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 9 </h4>
+                        <p>Kondisi Sedang</p>
+                      </button>
+                    </div>
+                    <div class="about__achieve__item  ">
+                      <button class="btn-kategori" onclick="dosomething(this.value)">
+                        <span class="fa fa-clone"></span>
+                        <h4 class="achieve-counter"> 7 </h4>
+                        <p>Kondisi Rusak</p>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- <div class="about__text">
           <div class="about__achievement">
-            <div class="about__achieve__item">
-              <span class="fa fa-clone"></span>
-              <h4 class="achieve-counter"> 17 </h4>
-              <p>JL. Pesisir</p>
+            <div class="about_achieve_item">
+              <span class="fa fa-clone" aria-hidden="true"></span>
+              <h4 class="achieve-counter">67</h4>
+              <p>Kondisi Bagus</p>
             </div>
-            <div class="about__achieve__item">
-              <span class="fa fa-clone"></span>
-              <h4 class="achieve-counter"> 6 </h4>
-              <p>JL. Panglima Undan</p>
+            <div class="about_achieve_item">
+              <span class="fa fa-clone" aria-hidden="true"></span>
+              <h4 class="achieve-counter">9</h4>
+              <p>Kondisi Sedang</p>
             </div>
-            <div class="about__achieve__item">
-              <span class="fa fa-clone"></span>
-              <h4 class="achieve-counter"> 28 </h4>
-              <p>JL. Yos Sudarso</p>
-            </div>
-            <div class="about__achieve__item">
-              <span class="fa fa-clone"></span>
-              <h4 class="achieve-counter"> 3 </h4>
-              <p>Gg. Gaharu</p>
-            </div>
-            <div class="about__achieve__item">
-              <span class="fa fa-clone"></span>
-              <h4 class="achieve-counter"> 26 </h4>
-              <p>Gg. Jaya</p>
-            </div>
-            <div class="about__achieve__item">
-              <span class="fa fa-clone"></span>
-              <h4 class="achieve-counter"> 3 </h4>
-              <p>Gg. Cendana</p>
+            <div class="about_achieve_item">
+              <span class="fa fa-clone" aria-hidden="true"></span>
+              <h4 class="achieve-counter">7</h4>
+              <p>Kondisi Rusak</p>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
 </section>
-<!-- About Section End -->
-
-<!-- About Section Begin -->
-<section class="register-domain spad">
-  <div class="container">
-    <div class="row d-flex justify-content-center">
-        <div class="register__text text-center">
-        <div class="section-title">
-            <h3>Filter Data</h3>
-          </div>
-          <div class="m-5">
-          <a href="#" class="primary-btn"> Bahan Drainase </a>
-          <a href="#" class="primary-btn"> Jalan </a>
-          <a href="#" class="primary-btn"> Kondisi Drainase </a></div>
-            <div class="about__text">
-                        <div class="about__achievement">
-                            <div class="about__achieve__item">
-                                <span class="fa fa-clone"></span>
-                                <h4 class="achieve-counter"> 12 </h4>
-                                <p>Bahan Alami</p>
-                            </div>
-                            <div class="about__achieve__item">
-                                <span class="fa fa-clone"></span>
-                                <h4 class="achieve-counter"> 1 </h4>
-                                <p>Bahan Batu</p>
-                            </div>
-                            <div class="about__achieve__item">
-                                <span class="fa fa-clone"></span>
-                                <h4 class="achieve-counter"> 71 </h4>
-                                <p>Bahan Beton</p>
-                            </div>
-                        </div>
-                    </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- About Section End -->
-
-<!-- About Section Begin -->
-<section class="register-domain spad">
-  <div class="container">
-    <div class="row d-flex justify-content-center">
-        <div class="register__text text-center">
-        <div class="section-title">
-            <h3>Filter Data</h3>
-          </div>
-          <div class="m-5">
-          <a href="#" class="primary-btn"> Bahan Drainase </a>
-          <a href="#" class="primary-btn"> Jalan </a>
-          <a href="#" class="primary-btn"> Kondisi Drainase </a></div>
-        <div class="about__text">
-                        <div class="about__achievement">
-                            <div class="about__achieve__item">
-                                <span class="fa fa-clone"></span>
-                                <h4 class="achieve-counter"> 67 </h4>
-                                <p>Kondisi Bagus</p>
-                            </div>
-                            <div class="about__achieve__item">
-                                <span class="fa fa-clone"></span>
-                                <h4 class="achieve-counter"> 9 </h4>
-                                <p>Kondisi Sedang</p>
-                            </div>
-                            <div class="about__achieve__item">
-                                <span class="fa fa-clone"></span>
-                                <h4 class="achieve-counter"> 7 </h4>
-                                <p>Kondisi Rusak</p>
-                            </div>
-                        </div>
-                    </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- About Section End -->
 
 <?php include 'footer.php'; ?>
+<script src="js/myscript.js"></script>
+</body>
+
+</html>
