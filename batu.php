@@ -47,7 +47,7 @@ include 'header.php';
 <?php include 'filter.php'; ?>
 
 <?php include 'footer.php'; ?>
-<script src="js/script_BahanBatu.js"></script>
+<script src="js/script_bahanbatu.js"></script>
 </body>
 
 </html>

@@ -99,10 +99,10 @@ include 'header.php';
                 Terdapat jeram atau air terjun </p>
             </div>
           </div>
-          
 
-          </div>
+
         </div>
+      </div>
 </section>
 
 <!-- Footer Section Begin -->

@@ -8,7 +8,7 @@
                 </div>
                 <div class="m-5">
 
-                    
+
                     <button class="site-btn" type="button" data-toggle="collapse" data-target="#collapseJalan" aria-expanded="false" aria-controls="collapseJalan">
                         Bahan Drainase
                     </button>
@@ -84,25 +84,25 @@
                                 <div class="about__text">
                                     <div class="about__achievement">
                                         <div class="about__achieve__item  ">
-                                            <button class="btn-kategori" onclick="dosomething(this.value)">
+                                            <a href="alami.php">
                                                 <span class="fa fa-clone"></span>
                                                 <h4 class="achieve-counter"> 12 </h4>
                                                 <p>Bahan Alami</p>
-                                            </button>
+                                            </a>
                                         </div>
                                         <div class="about__achieve__item  ">
-                                            <button class="btn-kategori" onclick="dosomething(this.value)">
+                                            <a href="batu.php">
                                                 <span class="fa fa-clone"></span>
                                                 <h4 class="achieve-counter"> 1 </h4>
                                                 <p>Bahan Batu</p>
-                                            </button>
+                                            </a>
                                         </div>
                                         <div class="about__achieve__item  ">
-                                            <button class="btn-kategori" onclick="dosomething(this.value)">
+                                            <a href="beton.php">
                                                 <span class="fa fa-clone"></span>
                                                 <h4 class="achieve-counter"> 71 </h4>
                                                 <p>Bahan Beton</p>
-                                            </button>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -114,27 +114,27 @@
                                     <div class="about__achievement">
                                         <div class="about__achieve__item  ">
                                             <a href="kondisibagus.php">
-                                            <button class="btn-kategori" onclick="dosomething(this.value)">
-                                                <span class="fa fa-clone"></span>
-                                                <h4 class="achieve-counter"> 67 </h4>
-                                                <p>Kondisi Bagus</p>
-                                            </button>
+                                                <button class="btn-kategori" onclick="dosomething(this.value)">
+                                                    <span class="fa fa-clone"></span>
+                                                    <h4 class="achieve-counter"> 67 </h4>
+                                                    <p>Kondisi Bagus</p>
+                                                </button>
                                         </div>
                                         <div class="about__achieve__item  ">
                                             <a href="kondisisedang.php">
-                                            <button class="btn-kategori" onclick="dosomething(this.value)">
-                                                <span class="fa fa-clone"></span>
-                                                <h4 class="achieve-counter"> 9 </h4>
-                                                <p>Kondisi Sedang</p>
-                                            </button>
+                                                <button class="btn-kategori" onclick="dosomething(this.value)">
+                                                    <span class="fa fa-clone"></span>
+                                                    <h4 class="achieve-counter"> 9 </h4>
+                                                    <p>Kondisi Sedang</p>
+                                                </button>
                                         </div>
                                         <div class="about__achieve__item  ">
                                             <a href="kondisirusak.php">
-                                            <button class="btn-kategori" onclick="dosomething(this.value)">
-                                                <span class="fa fa-clone"></span>
-                                                <h4 class="achieve-counter"> 7 </h4>
-                                                <p>Kondisi Rusak</p>
-                                            </button>
+                                                <button class="btn-kategori" onclick="dosomething(this.value)">
+                                                    <span class="fa fa-clone"></span>
+                                                    <h4 class="achieve-counter"> 7 </h4>
+                                                    <p>Kondisi Rusak</p>
+                                                </button>
                                         </div>
                                     </div>
                                 </div>
