@@ -23,18 +23,28 @@ include 'header.php';
         </div>
       </div>
     </div>
-    <div class="row">
-      <div class="col-lg col-md col-sm">
-        <div class="services__item">
-          <h5>Pekanbaru</h5>
-          <span>Kec. Umban Sari , Kel. Meranti Pandak</span>
+        <div class="row">
+            <div class="col-lg col-md col-sm">
+                <div class="services__item">
+                    <div class="row">
+                        <div class="col-lg-5">
+                            <h5>Pekanbaru</h5>
+                            <span>Kec. Umban Sari , Kel. Meranti Pandak</span>
+                        </div>
+                        <div class="col-lg">
+                            <span class="mt-4 badge badge-pill badge-info w-auto float-right text-white" 
+                            style="background-color:#4c57d6;">Gg. Cendana</span>
+                        </div>
+                    </div>
 
-          <div id="map" class="map">
-            <!-- ISI MAP -->
-          </div>
+                    <div id="map" class="map">
+                        <!-- ISI MAP -->
+                    </div>
+                </div>
+            </div>
+
         </div>
       </div>
-
     </div>
   </div>
 </section>
