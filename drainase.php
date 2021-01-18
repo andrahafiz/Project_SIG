@@ -158,6 +158,7 @@ include 'header.php';
                 <div class="about__text">
                   <div class="about__achievement">
                     <div class="about__achieve__item  ">
+                      <a href="kondisibagus.php">
                       <button class="btn-kategori" onclick="dosomething(this.value)">
                         <span class="fa fa-clone"></span>
                         <h4 class="achieve-counter"> 67 </h4>
