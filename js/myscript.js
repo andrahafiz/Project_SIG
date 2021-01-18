@@ -59,12 +59,18 @@ var container = document.getElementById('popup'),
   content_element = document.getElementById('popup-content'),
   closer = document.getElementById('popup-closer');
 
+  var container_banjir = document.getElementById('popup-banjir'),
+  content_element_banjir = document.getElementById('popup-content-banjir');
+
 closer.onclick = function () {
   overlay.setPosition(undefined);
   closer.blur();
   return false;
 
 };
+
+
+
 var overlay = new ol.Overlay({
   element: container,
   autoPan: true,
@@ -107,12 +113,12 @@ map_titikbanjir.on('click', function (evt) {
     var coord = geometry.getCoordinates();
     // console.log("Hi apa kabar!");
 
-    var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama Jalan') + '</p>';
+    var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
     // var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
     // content += '<h3>Jumlah Korban : ' + feature.get('Jumlah_Korban') + '</h3>';
     // content += '<img src=' + feature.get('Foto') + ' width="300px" height="200px"/>';
 
-    content_element.innerHTML = content;
+    content_element_banjir.innerHTML = content;
     overlay.setPosition(coord);
     console.info(feature.getProperties());
 
