@@ -19,7 +19,7 @@ include 'header.php';
           <!-- <i class="fas fa-tint"></i> -->
           <span class="fa fa-tint"></span>
           <h2 class="achieve-counter">4</h2>
-          <p>Parit Tersumbat</p>
+          <p>Titik Tersumbat</p>
         </div>
       </div>
 

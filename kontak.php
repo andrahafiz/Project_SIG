@@ -29,7 +29,7 @@ include 'header.php';
                             <div class="col-lg-8 col-md-8">
                             </div>
                         </div>
-                        <div class="row m-5">
+                        <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <div class="team__item">
                                     <div class="team__pic">
@@ -105,9 +105,6 @@ include 'header.php';
 
             </div>
         </div>
-    </div>
-    </div>
-    </div>
     </div>
 </section>
 <!-- Work Section End -->

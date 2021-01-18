@@ -99,18 +99,7 @@ include 'header.php';
                 Terdapat jeram atau air terjun </p>
             </div>
           </div>
-
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-8">
-              <div class="register__text"><br /><br />
-                <div class="section-title">
-                  <h3>Saluran paling bagus</h3>
-                </div>
-                asdasdsa
-                <p>Menurut peneliti serta standar penilaian drainase yang bagus .... wqweqwe
-                  qweqweqweqw qewqweqweqwe qweweqweqweewasdsadadasdsadas</p>
-              </div>
-            </div>
+          
 
           </div>
         </div>
