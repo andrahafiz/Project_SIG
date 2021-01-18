@@ -84,25 +84,25 @@
                                 <div class="about__text">
                                     <div class="about__achievement">
                                         <div class="about__achieve__item  ">
-                                            <button class="btn-kategori" onclick="dosomething(this.value)">
+                                            <a href="alami.php">
                                                 <span class="fa fa-clone"></span>
                                                 <h4 class="achieve-counter"> 12 </h4>
                                                 <p>Bahan Alami</p>
-                                            </button>
+                                            </a>
                                         </div>
                                         <div class="about__achieve__item  ">
-                                            <button class="btn-kategori" onclick="dosomething(this.value)">
+                                            <a href="batu.php">
                                                 <span class="fa fa-clone"></span>
                                                 <h4 class="achieve-counter"> 1 </h4>
                                                 <p>Bahan Batu</p>
-                                            </button>
+                                            </a>
                                         </div>
                                         <div class="about__achieve__item  ">
-                                            <button class="btn-kategori" onclick="dosomething(this.value)">
+                                            <a href="beton.php">
                                                 <span class="fa fa-clone"></span>
                                                 <h4 class="achieve-counter"> 71 </h4>
                                                 <p>Bahan Beton</p>
-                                            </button>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
