@@ -8,11 +8,12 @@
                 </div>
                 <div class="m-5">
 
-                    <button class="site-btn" data-toggle="collapse" data-target="#collapseBahan" aria-expanded="false" aria-controls="collapseBahan">
-                        Jalan
-                    </button>
+                    
                     <button class="site-btn" type="button" data-toggle="collapse" data-target="#collapseJalan" aria-expanded="false" aria-controls="collapseJalan">
                         Bahan Drainase
+                    </button>
+                    <button class="site-btn" data-toggle="collapse" data-target="#collapseBahan" aria-expanded="false" aria-controls="collapseBahan">
+                        Jalan
                     </button>
                     <button class="site-btn" type="button" data-toggle="collapse" data-target="#collapseKondisi" aria-expanded="false" aria-controls="collapseKondisi">
                         Kondisi Drainase
@@ -112,6 +113,7 @@
                                 <div class="about__text">
                                     <div class="about__achievement">
                                         <div class="about__achieve__item  ">
+                                            <a href="kondisibagus.php">
                                             <button class="btn-kategori" onclick="dosomething(this.value)">
                                                 <span class="fa fa-clone"></span>
                                                 <h4 class="achieve-counter"> 67 </h4>
@@ -119,6 +121,7 @@
                                             </button>
                                         </div>
                                         <div class="about__achieve__item  ">
+                                            <a href="kondisisedang.php">
                                             <button class="btn-kategori" onclick="dosomething(this.value)">
                                                 <span class="fa fa-clone"></span>
                                                 <h4 class="achieve-counter"> 9 </h4>
@@ -126,6 +129,7 @@
                                             </button>
                                         </div>
                                         <div class="about__achieve__item  ">
+                                            <a href="kondisirusak.php">
                                             <button class="btn-kategori" onclick="dosomething(this.value)">
                                                 <span class="fa fa-clone"></span>
                                                 <h4 class="achieve-counter"> 7 </h4>
