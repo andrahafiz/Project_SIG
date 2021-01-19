@@ -44,8 +44,7 @@ include 'header.php';
 
         </div>
     </div>
-    </div>
-    </div>
+
 </section>
 
 <?php include 'filter.php'; ?>
