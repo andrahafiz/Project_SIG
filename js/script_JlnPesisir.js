@@ -25,13 +25,13 @@ var map = new ol.Map({
     })
 });
 
-var overlay = new ol.Overlay({
-    element: container,
-    autoPan: true,
-    offset: [0, -10]
-});
+// var overlay = new ol.Overlay({
+//     element: container,
+//     autoPan: true,
+//     offset: [0, -10]
+// });
 
-map.addOverlay(overlay);
+// map.addOverlay(overlay);
 
 var fullscreen = new ol.control.FullScreen();
 map.addControl(fullscreen);

@@ -158,6 +158,9 @@ include 'header.php';
     </div>
 </section>
 
-<?php
-include 'footer.php';
-?>
+<?php include 'filter.php'; ?>
+<?php include 'footer.php'; ?>
+<script src="js/myscript.js"></script>
+</body>
+
+</html>
