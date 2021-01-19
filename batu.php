@@ -15,14 +15,14 @@ include 'header.php';
 <!-- Achievement Section End -->
 
 <section class="work-section spad border-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="section-title">
-          <h3 style="color:#000000;">Peta Drainase</h3>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title">
+                    <h3 style="color:#000000;">Peta Drainase</h3>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
         <div class="row">
             <div class="col-lg col-md col-sm">
                 <div class="services__item">
@@ -32,8 +32,7 @@ include 'header.php';
                             <span>Kec. Umban Sari , Kel. Meranti Pandak</span>
                         </div>
                         <div class="col-lg">
-                            <span class="mt-4 badge badge-pill badge-info w-auto float-right text-white" 
-                            style="background-color:#4c57d6;">Bahan Batu</span>
+                            <span class="mt-4 badge badge-pill badge-info w-auto float-right text-white" style="background-color:#4c57d6;">Bahan Batu</span>
                         </div>
                     </div>
 
@@ -44,9 +43,9 @@ include 'header.php';
             </div>
 
         </div>
-      </div>
     </div>
-  </div>
+    </div>
+    </div>
 </section>
 
 <?php include 'filter.php'; ?>
