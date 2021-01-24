@@ -39,28 +39,6 @@ closer.onclick = function () {
 
 };
 
-
-
-// var map = new ol.Map({
-//   target: 'map',
-//   layers: [
-//     new ol.layer.Tile({
-//       source: new ol.source.OSM()
-//     }),
-//     vectorLayerDrainase
-//   ],
-//   view: new ol.View({
-//     center: ol.proj.fromLonLat([101.436, 0.550]),
-//     zoom: 15
-//   })
-// });
-
-
-
-// map.addOverlay(overlay);
-
-
-
 // CREATE MAP TITIK BANJIR
 var map_titikbanjir = new ol.Map({
   target: 'map_titikbanjir',
