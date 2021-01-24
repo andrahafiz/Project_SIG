@@ -48,7 +48,7 @@ include 'header.php';
                 <table class="table">
                   <thead class="thead-dark">
                     <tr>
-                      <th scope="col">No</th>
+                      <th scope="col">Titik</th>
                       <th scope="col">Nama Jalan</th>
                       <th scope="col">Lattitude</th>
                       <th scope="col">Longitude</th>

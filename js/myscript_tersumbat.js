@@ -37,7 +37,7 @@ var map_titiktersumbat = new ol.Map({
     ],
     view: new ol.View({
         center: ol.proj.fromLonLat([101.449, 0.545]),
-        zoom: 16
+        zoom: 15
     })
 });
 
@@ -48,20 +48,20 @@ var overlay = new ol.Overlay({
 });
 
 var fullscreen = new ol.control.FullScreen();
-map_titikbanjir.addControl(fullscreen);
+map_titiktersumbat.addControl(fullscreen);
 
-map_titikbanjir.addOverlay(overlay);
+map_titiktersumbat.addOverlay(overlay);
 
 var namajalan = document.getElementById('Nama_jalan'),
     lat = document.getElementById('Lat'),
-    long = document.getElementById('Long'),
-    Damage = document.getElementById('Damage');
+    point = document.getElementById('no'),
+    long = document.getElementById('Long');
 
-map_titikbanjir.on('pointermove', function (evt) {
+map_titiktersumbat.on('pointermove', function (evt) {
     // geturl();
 
 
-    var feature = map_titikbanjir.forEachFeatureAtPixel(evt.pixel,
+    var feature = map_titiktersumbat.forEachFeatureAtPixel(evt.pixel,
         function (feature, layer) {
             return feature;
         });
@@ -71,12 +71,12 @@ map_titikbanjir.on('pointermove', function (evt) {
         var coord = geometry.getCoordinates();
 
         var content = '<h3 class="text-center font-weight-bold m-0 pt-2">' + feature.get('No') + '</h3><hr>';
-        content += '<img src=' + feature.get('foto') + ' class="rounded" width="300px" height="200px"/>';
+        content += '<img src=' + feature.get('Foto') + ' class="rounded" width="300px" height="200px"/>';
 
+        point.innerHTML = feature.get("No");
         namajalan.innerHTML = feature.get("Nama_Jalan");
         lat.innerHTML = feature.get("Lat");
         long.innerHTML = feature.get("Long");
-        Damage.innerHTML = feature.get("Kerusakan");
         content_element.innerHTML = content;
         overlay.setPosition(coord);
         // console.info(feature.getProperties());

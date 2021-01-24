@@ -37,7 +37,7 @@ include 'header.php';
         <div class="work__text">
           <div class="row">
             <div class="col-lg">
-              <div id="map_titikbanjir" class="map"></div>
+              <div id="map_titiktersumbat" class="map"></div>
 
               <div id="popup" class="ol-popup">
                 <a href="#" id="popup-closer" class="ol-popup-closer"></a>
@@ -50,20 +50,18 @@ include 'header.php';
                 <table class="table">
                   <thead class="thead-dark">
                     <tr>
-                      <th scope="col">No</th>
+                      <th scope="col">Titik</th>
                       <th scope="col">Nama Jalan</th>
                       <th scope="col">Lattitude</th>
                       <th scope="col">Longitude</th>
-                      <th scope="col">Kerusakan</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <th scope="row">1</th>
+                      <th scope="row" id="no"></th>
                       <td id="Nama_jalan">-</td>
                       <td id="Lat">-</td>
                       <td id="Long">-</td>
-                      <td id="Damage">-</td>
                     </tr>
                   </tbody>
                 </table>
