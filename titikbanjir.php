@@ -69,9 +69,39 @@ include 'header.php';
               <div id="popup" class="ol-popup">
                 <a href="#" id="popup-closer" class="ol-popup-closer"></a>
                 <div id="popup-content"></div>
+              </div>
+              <div>
+                <div class="section-title mt-5">
+                  <h3 class="text-dark">Informasi Titik</h3>
+                </div>
+                <table class="table">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">No</th>
+                      <th scope="col">Nama Jalan</th>
+                      <th scope="col">Lattitude</th>
+                      <th scope="col">Longitude</th>
+                      <th scope="col">Kerusakan</th>
+                      <th scope="col">Foto</th>
+
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td id="Nama_jalan">-</td>
+                      <td id="Lat">-</td>
+                      <td id="Long">-</td>
+                      <td id="Damage">-</td>
+                      <td id="Image">-</td>
+
+                    </tr>
+
+                  </tbody>
+                </table>
+
 
               </div>
-
             </div>
           </div>
         </div>
@@ -86,94 +116,7 @@ include 'header.php';
 
 <!-- Choose Plan Section End -->
 <section class="choose-plan-section spad">
-  <div class="container">
-  <div class="row">
-  <div class="col-lg-12">
-      <div class="col-lg-12">
-        <div class="section-title normal-title">
-          <h3>Informasi Titik Banjir</h3>
-        </div>
-    <div class="tab-content">
-      <div class="tab-pane active" id="tabs-1" role="tabpanel">
-        <div class="hosting__feature__table">
-          <table>
-            <thead>
-              <tr>
-              <th>
-                  <div class="hosting__feature--plan">
-                    <div class="plan__title">Titik</div>
-                  </div>
-                </th>
-                <th>
-                  <div class="hosting__feature--plan">
-                    <div class="plan__title">Nama Jalan</div>
-                  </div>
-                </th>
-                <th>
-                  <div class="hosting__feature--plan">
-                    <div class="plan__title">Lattitude</div>
-                  </div>
-                </th>
-                <th>
-                  <div class="hosting__feature--plan">
-                    <div class="plan__title">Longitude</div>
-                  </div>
-                </th>
-                <th>
-                  <div class="hosting__feature--plan">
-                    <div class="plan__title">Kerusakan</div>
-                  </div>
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td class="hosting__feature--item">Titik 1</td>
-                <td class="hosting__feature--info">Jl. Tugu Pembangunan</td>
-                <td class="hosting__feature--info">0,547225</td>
-                <td class="hosting__feature--info">101,439627</td>
-                <td class="hosting__feature--info">Sedang</td>
-              </tr>
-              <tr>
-                <td class="hosting__feature--item">Titik 2</td>
-                <td class="hosting__feature--info">Jl. Tugu Pembangunan</td>
-                <td class="hosting__feature--info">0,541024</td>
-                <td class="hosting__feature--info">101,447496</td>
-                <td class="hosting__feature--info">Sedang</td>
-              </tr>
-              <tr>
-                <td class="hosting__feature--item">Titik 3</td>
-                <td class="hosting__feature--info">Jl. Pesisir </td>
-                <td class="hosting__feature--info">0,546738</td>
-                <td class="hosting__feature--info">101,438635</td>
-                <td class="hosting__feature--info">Sedang</td>
-              </tr>
-              <tr>
-                <td class="hosting__feature--item">Titik 4</td>
-                <td class="hosting__feature--info">Gg. Jaya </td>
-                <td class="hosting__feature--info">0,549258</td>
-                <td class="hosting__feature--info">101,439510</td>
-                <td class="hosting__feature--info">Sedang</td>
-              </tr>
-              <tr>
-                <td class="hosting__feature--item">Titik 5</td>
-                <td class="hosting__feature--info">Gg. Jaya </td>
-                <td class="hosting__feature--info">0,549222</td>
-                <td class="hosting__feature--info">101,438117</td>
-                <td class="hosting__feature--info">Sedang</td>
-              </tr>
-              <tr>
-                <td class="hosting__feature--item">Titik 6</td>
-                <td class="hosting__feature--info">Jl. Jaya Cendana</td>
-                <td class="hosting__feature--info">0,549214</td>
-                <td class="hosting__feature--info">101,439705</td>
-                <td class="hosting__feature--info">Sedang</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-    </div>
+
 </section>
 
 <?php include 'footer.php'; ?>

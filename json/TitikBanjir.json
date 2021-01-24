@@ -18,7 +18,7 @@
             "Long": 101.439627,
             "Nama_Jalan": "Jl tugu pembangunan",
             "Kerusakan": "Sedang",
-            "foto":"img/Banjir/img1.png"
+            "foto": "img/Banjir/img1.png"
         }
     }, {
         "type": "Feature",
@@ -32,7 +32,7 @@
             "Long": 101.438635,
             "Nama_Jalan": "Jl tugu pembangunan",
             "Kerusakan": "Sedang",
-            "foto":"img/Banjir/img2.png"
+            "foto": "img/Banjir/img2.png"
         }
     }, {
         "type": "Feature",
@@ -46,7 +46,7 @@
             "Long": 101.447496,
             "Nama_Jalan": "Jl. Pesisir",
             "Kerusakan": "Sedang",
-            "foto":"img/Banjir/img3.png"
+            "foto": "img/Banjir/img3.png"
         }
     }, {
         "type": "Feature",
@@ -60,7 +60,7 @@
             "Long": 101.43951,
             "Nama_Jalan": "Gg. Jaya",
             "Kerusakan": "Sedang",
-            "foto":"img/Banjir/img4.png"
+            "foto": "img/Banjir/img4.png"
         }
     }, {
         "type": "Feature",
@@ -74,7 +74,7 @@
             "Long": 101.439705,
             "Nama_Jalan": "Gg. Jaya",
             "Kerusakan": "Sedang",
-            "foto":"img/Banjir/img5.png"
+            "foto": "img/Banjir/img5.png"
         }
     }, {
         "type": "Feature",
@@ -88,7 +88,7 @@
             "Long": 101.43811700000001,
             "Nama_Jalan": "Jl. Jaya Cendana",
             "Kerusakan": "Sedang",
-            "foto":"img/Banjir/img6.png"
+            "foto": "img/Banjir/img6.png"
         }
     }]
 }
