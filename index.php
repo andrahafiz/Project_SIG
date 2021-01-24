@@ -45,6 +45,72 @@ include 'header.php';
 </section>
 <!-- Hero Section End -->
 
+<section class="work-section spad border-0">
+  <div class="container mt-3">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="section-title">
+          <h3 style="color:#000000;">Peta Drainase</h3>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg col-md col-sm">
+        <div class="services__item">
+          <h5>Pekanbaru</h5>
+          <span>Kec. Umban Sari , Kel. Meranti Pandak</span>
+
+          <div id="map" class="map">
+          
+            <!-- ISI MAP -->
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="section-title">
+            <h3 style="color:#000000;">Legenda</h3>
+          </div>
+    <div class="row">
+    <div class="col-lg col-md col-sm">
+    <ul class="list-unstyled">
+  <a href="./titiktersumbat.php">
+  <li class="media">
+    <img src="icon/pin3.png" class="mr-3" alt="...">
+    <div class="media-body">
+      <h5 class="mt-0 mb-1">Titik Tersumbat</h5>
+      Titik Titik Tersumbat di Kec. Umban Sari , Kel. Meranti Pandak
+    <hr>
+    </div>
+  </li>
+    </a>
+  <a href="./titikbanjir.php">
+  <li class="media my-4">
+    <img src="icon/pin4.png" class="mr-3" alt="...">
+    <div class="media-body">
+      <h5 class="mt-0 mb-1">Titik Banjir</h5>
+      Titik Titik Banjir di Kec. Umban Sari , Kel. Meranti Pandak
+      <hr>
+     </div>
+  </li>
+     </a>
+  <a href="./drainase.php">
+  <li class="media">
+    <img src="icon/line.png" class="mr-3" alt="...">
+    <div class="media-body">
+      <h5 class="mt-0 mb-1">Drainase</h5>
+      Drainase di Kec. Umban Sari , Kel. Meranti Pandak
+      <hr>
+     </div>
+  </li>
+     </a>
+</ul> 
+    </div>
+    </div>
+  </div>
+</section>
+
+
 
 <!-- Register Domain Section Begin -->
 <section class="register-domain spad">
@@ -151,6 +217,7 @@ include 'header.php';
 <script src="js/jquery.slicknav.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/main.js"></script>
+<script src="js/gabungan.js"></script>
 </body>
 
 </html>
