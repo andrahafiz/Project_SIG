@@ -66,9 +66,10 @@ include 'header.php';
             <div class="col-lg">
               <div id="map_titikbanjir" class="map"></div>
 
-              <div id="popup-banjir" class="ol-popup">
+              <div id="popup" class="ol-popup">
                 <a href="#" id="popup-closer" class="ol-popup-closer"></a>
-                <div id="popup-content-banjir"></div>
+                <div id="popup-content"></div>
+
               </div>
 
             </div>
@@ -92,6 +93,11 @@ include 'header.php';
           <table>
             <thead>
               <tr>
+              <th>
+                  <div class="hosting__feature--plan">
+                    <div class="plan__title">Titik</div>
+                  </div>
+                </th>
                 <th>
                   <div class="hosting__feature--plan">
                     <div class="plan__title">Nama Jalan</div>
@@ -116,37 +122,43 @@ include 'header.php';
             </thead>
             <tbody>
               <tr>
-                <td class="hosting__feature--item">Jl. Tugu Pembangunan</td>
+                <td class="hosting__feature--item">Titik 1</td>
+                <td class="hosting__feature--info">Jl. Tugu Pembangunan</td>
                 <td class="hosting__feature--info">0,547225</td>
                 <td class="hosting__feature--info">101,439627</td>
                 <td class="hosting__feature--info">Sedang</td>
               </tr>
               <tr>
-                <td class="hosting__feature--item">Jl. Pesisir </td>
+                <td class="hosting__feature--item">Titik 2</td>
+                <td class="hosting__feature--info">Jl. Tugu Pembangunan</td>
                 <td class="hosting__feature--info">0,541024</td>
                 <td class="hosting__feature--info">101,447496</td>
                 <td class="hosting__feature--info">Sedang</td>
               </tr>
               <tr>
-                <td class="hosting__feature--item">Jl. Tugu Pembangunan</td>
+                <td class="hosting__feature--item">Titik 3</td>
+                <td class="hosting__feature--info">Jl. Pesisir </td>
                 <td class="hosting__feature--info">0,546738</td>
                 <td class="hosting__feature--info">101,438635</td>
                 <td class="hosting__feature--info">Sedang</td>
               </tr>
               <tr>
-                <td class="hosting__feature--item">Gg. Jaya </td>
+                <td class="hosting__feature--item">Titik 4</td>
+                <td class="hosting__feature--info">Gg. Jaya </td>
                 <td class="hosting__feature--info">0,549258</td>
                 <td class="hosting__feature--info">101,439510</td>
                 <td class="hosting__feature--info">Sedang</td>
               </tr>
               <tr>
-                <td class="hosting__feature--item">Jl. Jaya Cendana</td>
+                <td class="hosting__feature--item">Titik 5</td>
+                <td class="hosting__feature--info">Gg. Jaya </td>
                 <td class="hosting__feature--info">0,549222</td>
                 <td class="hosting__feature--info">101,438117</td>
                 <td class="hosting__feature--info">Sedang</td>
               </tr>
               <tr>
-                <td class="hosting__feature--item">Gg. Jaya </td>
+                <td class="hosting__feature--item">Titik 6</td>
+                <td class="hosting__feature--info">Jl. Jaya Cendana</td>
                 <td class="hosting__feature--info">0,549214</td>
                 <td class="hosting__feature--info">101,439705</td>
                 <td class="hosting__feature--info">Sedang</td>
@@ -160,7 +172,7 @@ include 'header.php';
 
 <?php include 'filter.php'; ?>
 <?php include 'footer.php'; ?>
-<script src="js/myscript.js"></script>
+<script src="js/myscript1.js"></script>
 </body>
 
 </html>

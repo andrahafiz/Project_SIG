@@ -67,6 +67,11 @@ include 'header.php';
               <tr>
                 <th>
                   <div class="hosting__feature--plan">
+                    <div class="plan__title">Titik</div>
+                  </div>
+                </th>
+                <th>
+                  <div class="hosting__feature--plan">
                     <div class="plan__title">Nama Jalan</div>
                   </div>
                 </th>
@@ -84,22 +89,26 @@ include 'header.php';
             </thead>
             <tbody>
               <tr>
-                <td class="hosting__feature--item">Jl. Pesisir </td>
+                <td class="hosting__feature--item">Titik 1 </td>
+                <td class="hosting__feature--info">Jl. Pesisir </td>
                 <td class="hosting__feature--info">0,545476</td>
                 <td class="hosting__feature--info">101,455676</td>
               </tr>
               <tr>
-                <td class="hosting__feature--item">Jl. Pesisir </td>
+                <td class="hosting__feature--item">Titik 2 </td>
+                <td class="hosting__feature--info">Jl. Pesisir </td>
                 <td class="hosting__feature--info">0,5453787</td>
                 <td class="hosting__feature--info">101,451945</td>
               </tr>
               <tr>
-                <td class="hosting__feature--item">Jl. Pesisir </td>
+                <td class="hosting__feature--item">Titik 3 </td>
+                <td class="hosting__feature--info">Jl. Pesisir </td>
                 <td class="hosting__feature--info">0,54539</td>
                 <td class="hosting__feature--info">101,451113</td>
               </tr>
               <tr>
-                <td class="hosting__feature--item">Jl. Pesisir </td>
+                <td class="hosting__feature--item">Titik 4 </td>
+                <td class="hosting__feature--info">Jl. Pesisir </td>
                 <td class="hosting__feature--info">0,540713</td>
                 <td class="hosting__feature--info">101,446426</td>
               </tr>

@@ -13,7 +13,7 @@
             "coordinates": [101.439627, 0.54722499999999996]
         },
         "properties": {
-            "No": 1,
+            "No": "Titik 1",
             "Lat": 0.54722499999999996,
             "Long": 101.439627,
             "Nama_Jalan": "Jl tugu pembangunan",
@@ -27,12 +27,12 @@
             "coordinates": [101.438635, 0.54673799999999995]
         },
         "properties": {
-            "No": 2,
+            "No": "Titik 2",
             "Lat": 0.54673799999999995,
             "Long": 101.438635,
             "Nama_Jalan": "Jl tugu pembangunan",
             "Kerusakan": "Sedang",
-            "foto":"img/Banjir/img1.png"
+            "foto":"img/Banjir/img2.png"
         }
     }, {
         "type": "Feature",
@@ -41,12 +41,12 @@
             "coordinates": [101.447496, 0.54102399999999995]
         },
         "properties": {
-            "No": 3,
+            "No": "Titik 3",
             "Lat": 0.54102399999999995,
             "Long": 101.447496,
             "Nama_Jalan": "Jl. Pesisir",
             "Kerusakan": "Sedang",
-            "foto":"img/Banjir/img1.png"
+            "foto":"img/Banjir/img3.png"
         }
     }, {
         "type": "Feature",
@@ -55,12 +55,12 @@
             "coordinates": [101.43951, 0.54925800000000002]
         },
         "properties": {
-            "No": 4,
+            "No": "Titik 4",
             "Lat": 0.54925800000000002,
             "Long": 101.43951,
             "Nama_Jalan": "Gg. Jaya",
             "Kerusakan": "Sedang",
-            "foto":"img/Banjir/img1.png"
+            "foto":"img/Banjir/img4.png"
         }
     }, {
         "type": "Feature",
@@ -69,12 +69,12 @@
             "coordinates": [101.439705, 0.54921399999999998]
         },
         "properties": {
-            "No": 5,
+            "No": "Titik 5",
             "Lat": 0.54921399999999998,
             "Long": 101.439705,
             "Nama_Jalan": "Gg. Jaya",
             "Kerusakan": "Sedang",
-            "foto":"img/Banjir/img1.png"
+            "foto":"img/Banjir/img5.png"
         }
     }, {
         "type": "Feature",
@@ -83,12 +83,12 @@
             "coordinates": [101.43811700000001, 0.54922199999999999]
         },
         "properties": {
-            "No": 6,
+            "No": "Titik 6",
             "Lat": 0.54922199999999999,
             "Long": 101.43811700000001,
             "Nama_Jalan": "Jl. Jaya Cendana",
             "Kerusakan": "Sedang",
-            "foto":"img/Banjir/img1.png"
+            "foto":"img/Banjir/img6.png"
         }
     }]
 }
