@@ -53,6 +53,7 @@ map_titikbanjir.addOverlay(overlay);
 
 var namajalan = document.getElementById('Nama_jalan'),
   lat = document.getElementById('Lat'),
+  point = document.getElementById('no'),
   long = document.getElementById('Long'),
   Damage = document.getElementById('Damage');
 
@@ -72,6 +73,7 @@ map_titikbanjir.on('pointermove', function (evt) {
     var content = '<h3 class="text-center font-weight-bold m-0 pt-2">' + feature.get('No') + '</h3><hr>';
     content += '<img src=' + feature.get('foto') + ' class="rounded" width="300px" height="200px"/>';
 
+    point.innerHTML = feature.get("No");
     namajalan.innerHTML = feature.get("Nama_Jalan");
     lat.innerHTML = feature.get("Lat");
     long.innerHTML = feature.get("Long");

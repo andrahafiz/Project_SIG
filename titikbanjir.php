@@ -57,7 +57,7 @@ include 'header.php';
                   </thead>
                   <tbody>
                     <tr>
-                      <th scope="row">1</th>
+                      <th scrope="row" id="no">-</th>
                       <td id="Nama_jalan">-</td>
                       <td id="Lat">-</td>
                       <td id="Long">-</td>
