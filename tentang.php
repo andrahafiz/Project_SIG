@@ -26,7 +26,7 @@ include 'header.php';
           </div>
           <div class="row m-5">
           <p>Website ini merupakan Website yang berisi tentang informasi Drainase atau Parit yang berada di daerah Rumbai. Website ini 
-              dibuat menggunakan bahasa JSON, PHP, dan HTML.</p>
+              dibuat menggunakan bahasa JSON, PHP, HTML, CSS, dan lain-lain.</p>
 
         </div>
 

@@ -59,6 +59,10 @@ include 'header.php';
 <!-- Choose Plan Section End -->
 <section class="choose-plan-section spad">
   <div class="container">
+  <div class="col-lg-12">
+        <div class="section-title normal-title">
+          <h3>Informasi Titik</h3>
+        </div>
     <div class="tab-content">
       <div class="tab-pane active" id="tabs-1" role="tabpanel">
         <div class="hosting__feature__table">
@@ -119,7 +123,6 @@ include 'header.php';
     </div>
 </section>
 
-<?php include 'filter.php'; ?>
 <?php include 'footer.php'; ?>
 <script src="js/myscript.js"></script>
 </body>
