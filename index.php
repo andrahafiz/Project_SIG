@@ -42,11 +42,11 @@ include 'header.php';
       </div>
     </div>
   </div>
-</section>
+
 <!-- Hero Section End -->
 
-<section class="work-section spad border-0">
-  <div class="container mt-3">
+
+  <div class="container mt-5">
     <div class="row">
       <div class="col-lg-12">
         <div class="section-title">

@@ -44,8 +44,8 @@ var vectorLayer = new ol.layer.Vector({
       vectorLayerRiau,vectorLayer,vectorLayerTersumbat
     ],
     view: new ol.View({
-      center: ol.proj.fromLonLat([101.436, 0.545]),
-      zoom: 16
+      center: ol.proj.fromLonLat([101.446, 0.545]),
+      zoom: 15
     })
   });
 
