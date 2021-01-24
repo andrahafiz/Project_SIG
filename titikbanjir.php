@@ -91,7 +91,7 @@ include 'header.php';
   <div class="col-lg-12">
       <div class="col-lg-12">
         <div class="section-title normal-title">
-          <h3>Informasi Titik</h3>
+          <h3>Informasi Titik Banjir</h3>
         </div>
     <div class="tab-content">
       <div class="tab-pane active" id="tabs-1" role="tabpanel">

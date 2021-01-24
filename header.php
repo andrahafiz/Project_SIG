@@ -43,7 +43,7 @@
             <span class="fa fa-times-circle-o"></span>
         </div>
         <div class="offcanvas__logo">
-            <a href="#"><img scr="img/drainasee.png" alt="" height="70px" width="190px"></a>
+            <a href="index.php"><img scr="img/drainasee.png" alt="" height="70px" width="190px"></a>
         </div>
         <nav class="offcanvas__menu mobile-menu">
             <ul>
@@ -80,7 +80,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-3">
                     <div class="header__logo">
-                        <a href="./index.html"><img src="img/drainasee.png" alt=""  height="50px" width="190px"></a>
+                        <a href="index.php"><img src="img/drainasee.png" alt=""  height="50px" width="190px"></a>
                     </div>
                 </div>
                 <div class="col-lg-9 col-md-9">
