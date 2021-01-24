@@ -20,7 +20,7 @@ include 'header.php';
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title">
-                    <h3 style="color:#000000;">Gallery</h3>
+                    <h3 style="color:#000000;">Galeri</h3>
                 </div>
                 <!-- Team Section Begin -->
                 <div class="row mb-5">
