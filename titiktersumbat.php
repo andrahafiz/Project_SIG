@@ -58,69 +58,7 @@ include 'header.php';
 
 <!-- Choose Plan Section End -->
 <section class="choose-plan-section spad">
-  <div class="container">
-  <div class="col-lg-12">
-        <div class="section-title normal-title">
-          <h3>Informasi Titik Tersumbat</h3>
-        </div>
-    <div class="tab-content">
-      <div class="tab-pane active" id="tabs-1" role="tabpanel">
-        <div class="hosting__feature__table">
-          <table>
-            <thead>
-              <tr>
-                <th>
-                  <div class="hosting__feature--plan">
-                    <div class="plan__title">Titik</div>
-                  </div>
-                </th>
-                <th>
-                  <div class="hosting__feature--plan">
-                    <div class="plan__title">Nama Jalan</div>
-                  </div>
-                </th>
-                <th>
-                  <div class="hosting__feature--plan">
-                    <div class="plan__title">Lattitude</div>
-                  </div>
-                </th>
-                <th>
-                  <div class="hosting__feature--plan">
-                    <div class="plan__title">Longitude</div>
-                  </div>
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td class="hosting__feature--item">Titik 1 </td>
-                <td class="hosting__feature--info">Jl. Pesisir </td>
-                <td class="hosting__feature--info">0,545476</td>
-                <td class="hosting__feature--info">101,455676</td>
-              </tr>
-              <tr>
-                <td class="hosting__feature--item">Titik 2 </td>
-                <td class="hosting__feature--info">Jl. Pesisir </td>
-                <td class="hosting__feature--info">0,5453787</td>
-                <td class="hosting__feature--info">101,451945</td>
-              </tr>
-              <tr>
-                <td class="hosting__feature--item">Titik 3 </td>
-                <td class="hosting__feature--info">Jl. Pesisir </td>
-                <td class="hosting__feature--info">0,54539</td>
-                <td class="hosting__feature--info">101,451113</td>
-              </tr>
-              <tr>
-                <td class="hosting__feature--item">Titik 4 </td>
-                <td class="hosting__feature--info">Jl. Pesisir </td>
-                <td class="hosting__feature--info">0,540713</td>
-                <td class="hosting__feature--info">101,446426</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-    </div>
+
 </section>
 
 <?php include 'footer.php'; ?>

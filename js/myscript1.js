@@ -1,18 +1,3 @@
-var vectorLayerDrainase = new ol.layer.Vector({
-  source: new ol.source.Vector({
-    format: new ol.format.GeoJSON(),
-    url: 'json/GeoJSON_Line.json'
-  }),
-  style: new ol.style.Style({
-    stroke: new ol.style.Stroke({
-      color: '#2753e5',
-      width: 4
-    })
-  })
-});
-
-
-
 var vectorLayer_titikbanjir = new ol.layer.Vector({
   source: new ol.source.Vector({
     format: new ol.format.GeoJSON(),
