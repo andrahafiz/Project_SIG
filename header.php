@@ -86,7 +86,7 @@
                 <div class="col-lg-9 col-md-9">
                     <nav class="header__menu">
                         <ul>
-                            <li class="active"><a href="./index.php">Home</a></li>
+                            <li><a href="./index.php">Home</a></li>
                             <li><a href="./drainase.php">Drainase</a></li>
                             <li><a href="./titikbanjir.php">Titik Banjir</a></li>
                             <li><a href="./titiktersumbat.php">Titik Tersumbat</a></li>
