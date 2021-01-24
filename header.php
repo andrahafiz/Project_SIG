@@ -47,7 +47,7 @@
         </div>
         <nav class="offcanvas__menu mobile-menu">
             <ul>
-                <li class="active"><a href="./index.html">Home</a></li>
+                <li><a href="./index.html">Home</a></li>
                 <li><a href="./about.html">About</a></li>
                 <li><a href="./hosting.html">Hosting</a></li>
                 <li><a href="#">Pages</a>
@@ -80,7 +80,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-3">
                     <div class="header__logo">
-                        <a href="./index.html"><img src="img/drainasee.png" alt=""  height="50px" width="190px"></a>
+                        <a href="./index.html"><img src="img/drainasee.png" alt="" height="50px" width="190px"></a>
                     </div>
                 </div>
                 <div class="col-lg-9 col-md-9">
