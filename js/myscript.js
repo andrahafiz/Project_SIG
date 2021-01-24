@@ -56,13 +56,13 @@ var vectorLayer_titikbanjir = new ol.layer.Vector({
   })
 });
 
-  var container = document.getElementById('popup'),
+var container = document.getElementById('popup'),
   content_element = document.getElementById('popup-content'),
   closer = document.getElementById('popup-closer');
 
-  var container_banjir = document.getElementById('popup-banjir'),
+var container_banjir = document.getElementById('popup-banjir'),
   content_element_banjir = document.getElementById('popup-content-banjir');
-  closer_banjir = document.getElementById('ol-popup-closer');
+closer_banjir = document.getElementById('ol-popup-closer');
 
 closer.onclick = function () {
   overlay.setPosition(undefined);
@@ -102,7 +102,7 @@ var map_titikbanjir = new ol.Map({
 map_titikbanjir.addOverlay(overlay);
 
 map_titikbanjir.on('click', function (evt) {
-  geturl();
+  // geturl();
 
 
   var feature = map_titikbanjir.forEachFeatureAtPixel(evt.pixel,
@@ -174,7 +174,7 @@ map_titiktersumbat.on('click', function (evt) {
 
     var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama Jalan') + '</p>';
     // var content = '<p class="text-center font-weight-bold m-0">Nama Jalan</p><p class="text-center m-0">' + feature.get('Nama_Jalan') + '</p>';
-    content += '<p class="text-center m-0"><strong>' +feature.get('No') + '</strong></p>';
+    content += '<p class="text-center m-0"><strong>' + feature.get('No') + '</strong></p>';
     content += '<img src=' + feature.get('Foto') + ' width="300px" height="200px"/>';
 
     content_element.innerHTML = content;
