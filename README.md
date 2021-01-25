@@ -5,7 +5,7 @@ Semester 5 - Senin, 25 Januari 2021
 Home
 ![Halaman Home](/Screenshoot/Home.png)
 Drainase
-![Halaman Drainase](/Screenshoot/Drainase.png)
+![Halaman Drainase](/Screenshoot/drainase.png)
 Filtering Data Pada Drainase
 ![Filtering Data](/Screenshoot/filtering-data.png)
 Titik Banjir
