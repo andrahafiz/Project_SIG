@@ -32,7 +32,7 @@ include 'header.php';
     <div class="row">
       <div class="col-lg-12">
         <div class="section-title">
-          <h3>Titik Banjir</h3>
+          <h3>Titik Tersumbat</h3>
         </div>
         <div class="work__text">
           <div class="row">
