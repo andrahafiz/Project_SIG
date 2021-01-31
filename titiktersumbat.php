@@ -11,7 +11,7 @@ include 'header.php';
           <span class="fa fa-water"></span>
 
           <h2 class="achieve-counter">6</h2>
-          <p>Titik Banjir</p>
+          <p>Titik Tersumbat</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-6">
